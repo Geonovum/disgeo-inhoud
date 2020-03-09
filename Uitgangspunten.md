@@ -1,4 +1,4 @@
-## Analyse
+## Uitgangspunten 
 
 ### Context 
 

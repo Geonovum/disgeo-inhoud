@@ -1,4 +1,4 @@
-## Inhoudelijke keuzes
+## Objecttypen
 
 ### Inhoudelijke Keuzes op hoofdlijnen
 
