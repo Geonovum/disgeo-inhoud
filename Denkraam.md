@@ -1,4 +1,4 @@
-## Expert Sessies
+## Denkraam
 
 ### Overzicht Expertsessies
 
