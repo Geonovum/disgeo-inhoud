@@ -303,6 +303,7 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 || 	Niet BGT	|functioneel beheer: hondenuitlaatplaats|
 
 **Verblijfsobject**
+
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |verblijfsobject|	 ||		 
