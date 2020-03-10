@@ -37,28 +37,15 @@ Hierbij moeten vooraf enkele opmerkingen worden gemaakt:
 
 ### Leeswijzer
 
-*Beschrijf hoe het document gelzezen moet worden, welke hoofdstukken voor wie bedoeld zijn, enz...*
+In hoofdstuk 2 wordt een opsomming gegeven van de verschillende uitgangspunten die worden gehanteerd bij de verdere uitwerking van het conceptueel informatiemodel. Deze uitgangspunten hebben zowel betrekking op de grondgedachten van de samenhangende objectenregistratie als op de in het informatiemodel op te nemen objecttypen en eigenschappen.
 
-Lorem ipsum dolor sit amet, consectetuer [Analyse](#analyse) elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat [Inhoudelijke Keuzes](#inhoudelijke-keuzes) massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis [Conclusies en Aanbevelingen](#conclusies-en-aanbevelingen) pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus [Expert Sessies](#expert-sessies) viverra nulla ut metus varius laoreet. 
-Quisque rutrum. [Informatiemodel](#informatiemodel) Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+De verschillende objecttypen worden in hoofdstuk 3 op hoofdlijnen uitgewerkt. Daarbij worden de objecttypen opnieuw geordend en voorzien van een eerste aanzet van een definitie. Veelal zal het hierbij gaan om dezelfde of aangescherpte definities van objecttypen, zoals deze ook in de huidige basisregistraties al worden gehanteerd.
 
-### Het proces
+In hoofdstuk 4 is een eerste aanzet opgenomen van een aantal hoofdtyperingen die behoren bij enkele objecttypen.
 
-*Beschrijf het proces waarmee dit document is ontwikkeld*
+Om hetgeen in deze beschrijving is opgenomen beter te kunnen relateren aan hetgeen in de bestaande basisregistraties is opgenomen, bevat hoofdstuk 5 een globale mapping van de objecttypen uit de bestaande basisregistraties op de samenhangende objectenregistratie.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+In hoofdstuk 6 is de inrichting van het vervolgtraject beschreven.
+
+
+
