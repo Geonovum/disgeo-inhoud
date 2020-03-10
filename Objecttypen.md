@@ -291,21 +291,21 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied |	Type:	 ||	 
-|| 	Niet BGT	Stiltegebied|
-|| 	Niet BGT	Zonnepanelenveld|
-|| 	Niet BGT	Bedrijvigheid|
-||	Niet BGT	natuur en landschap|
-|| 	Niet BGT	Bewoning|
-|| 	Niet BGT	maatschappelijke en/of publieksvoorziening|
-|| 	Niet BGT	Recreatie|
-|| 	Niet BGT	Begraafplaats|
-|| 	Niet BGT	functioneel beheer|
-|| 	Niet BGT	functioneel beheer: hondenuitlaatplaats|
+|| 	Niet BGT	|Stiltegebied|
+|| 	Niet BGT	|Zonnepanelenveld|
+|| 	Niet BGT	|Bedrijvigheid|
+||	Niet BGT	|natuur en landschap|
+|| 	Niet BGT	|Bewoning|
+|| 	Niet BGT	|maatschappelijke en/of publieksvoorziening|
+|| 	Niet BGT	|Recreatie|
+|| 	Niet BGT	|Begraafplaats|
+|| 	Niet BGT	|functioneel beheer|
+|| 	Niet BGT	|functioneel beheer: hondenuitlaatplaats|
 
 **Verblijfsobject**
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |verblijfsobject|	 ||		 
 
-***+Functionele objecten uit BRT**
+**Functionele objecten uit BRT**
 
