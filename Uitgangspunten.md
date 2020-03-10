@@ -28,6 +28,42 @@ De bestaande objecttypen uit de BAG en BGT keren in principe terug in de objecte
 
 Ook de verschillende aan deze objecttypen verbonden eigenschappen worden in principe opgenomen in de SOR. Dat geldt ook voor een aantal eigenschappen van objecttypen die behoren tot het informatiemodel van de WOZ. Deze eigenschappen kunnen door wijzigingen in het gebouwgedeelte van het informatiemodel van de SOR naar verwachting aan objecttypen in de SOR worden gerelateerd. Voor alle eigenschappen geldt dat hetgeen in de bestaande registraties als eigenschap is opgenomen in de SOR als een objecttype (met een andere benaming) kan worden opgenomen. Dit zal met name het geval zijn bij enkele bestaande typeringen. Eigenschappen worden dan inhoudelijk dus wel overgenomen, maar keren in de SOR terug in een andere vorm (zoals een objecttype) en is dus als zodanig geen eigenschap meer.
 
+### Algemene uitgangspunten samenhangende objectenregistratie
+
+**1. 	In de SOR zijn uitsluitend gestandaardiseerde objecttypen en eigenschappen opgenomen.**
+
+De inhoud van de objectenregistratie is volledig beschreven in de vorm van een standaard. In de registratie komen dus geen objecttypen voor die niet voldoen aan deze standaard. Ook worden in de objectenregistratie uitsluitend gestandaardiseerde eigenschappen van deze objecttypen opgenomen.
+
+Onderdeel van deze standaardisatie is dat van de verschillende objecttypen en eigenschappen ook de beoogde kwaliteit is beschreven. Van de objecttypen is dus opgenomen welke eisen er worden gesteld aan de volledigheid en actualiteit van de in de registratie opgenomen objecten. Van de eigenschappen van de objecttypen is vastgelegd wat de beoogde actualiteit en nauwkeurigheid van de in de registratie opgenomen gegevens is.
+
+**2. 	Definities van zowel objecttypen als eigenschappen van objecttypen zijn scherp afgebakend, niet multi-interpretabel en sluiten waar mogelijk aan op bestaande definities.**
+
+Het is van groot belang dat de basis van een informatiemodel voor een samenhangende objectenregistratie wordt gevormd door een aantal onderling goed afgestemde en heldere definities. In de bestaande basisregistraties is daarvan momenteel niet altijd sprake. Hierdoor wordt de onderlinge koppelbaarheid van gegevens beperkt en laat de uniformiteit van de opgenomen gegevens (door interpretatieverschillen of in de definities opgenomen vrijheidsgraden) nogal eens te wensen over. Bij de verdere uitwerking van de inhoud van een samenhangende objectenregistratie worden bestaande definities daarom zodanig uitgebreid en geharmoniseerd dat: 
+- een scherp afgebakende en duidelijke definitie van objecttypen ontstaat;
+- definities elkaar semantisch niet overlappen;
+- er niet langer gebruik wordt gemaakt van verzamelclassificaties;
+- een optimale aansluiting op overkoepelende modellen en sectorale modellen wordt gerealiseerd, zoals NEN 3610 (Basismodel Geo-informatie) en NEN 2660 (Ordeningsregels voor gegevens in de bouw - Termen, definities en algemene regels)
+
+**3. Objecttypen en eigenschappen van objecttypen moeten in de SOR worden opgenomen als deze in het kader van de SOR als wettelijk verplicht zijn aangemerkt en mogen in de registratie worden opgenomen als deze als vrijwillig zijn aangemerkt in het kader van de SOR.**
+
+De grondgedachte van de samenhangende objectenregistratie is dat deze bestaat uit:
+
+- verplichte en gestandaardiseerde objecttypen en eigenschappen (het formele basisregistratie gedeelte)
+- vrijwillige maar wel gestandaardiseerde objecttypen en eigenschappen
+
+Hierbij is het belangrijk dat opname van vrijwillige objecten en gegevens door een bronhouder ook betekent dat deze gegevens blijvend worden bijgehouden. Voor alle opgenomen objecten en gegevens (zowel in het verplichte als het vrijwillige gedeelte) gelden dus blijvend de bijhoudingsregels die behoren bij het betreffende objecttype en eigenschappen. Bij de verdere uitwerking van de organisatie van de samenhangende objectenregistratie zullen afspraken moeten worden gemaakt over de omgang met in de registratie opgenomen objecten en gegevens die blijvend niet aan de bijhoudingsregels voldoen.
+
+Voor het basisregistratie gedeelte gelden de 12 eisen die aan basisregistraties worden gesteld (https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/gegevens/naar-een-gegevenslandschap/themas/twaalf-eisen-stelsel-van-basisregistraties/) en waarvan voor de verdere uitwerking van de inhoud van de samenhangende objectenregistratie met name de eisen 6 (er is duidelijkheid over inhoud en bereik van de registratie) en 11 (de positie van de basisregistratie binnen het stelsel van basisregistraties is duidelijk en de relaties met de basisregistraties zijn beschreven) van belang zijn.
+
+Het onderscheid tussen het verplichte gedeelte en het vrijwillige gedeelte kan (zoals ook opgenomen in de beleidsvisie) als volgt worden gevisualiseerd:
+![onderscheid verplicht en vrijwillig](media/verplicht_vrijwillig.png)
+
+Dit betekent dus dat gebruikers van het verplichte gedeelte van de samenhangende objectenregistratie zekerheid hebben over de volledigheid van de daarin opgenomen objecten en gegevens. Omdat bronhouders de keuze hebben om objecten of gegevens al dan niet op te nemen in het vrijwillige gedeelte van de objectenregistratie, hebben gebruikers van de samenhangende objectenregistratie die zekerheid niet bij de vrijwillig op te nemen objecten en gegevens. In de communicatie rondom de informatieproducten van de samenhangende objectenregistratie zal dit principe en de mate waarin verschillende bronhouders al dan geen gebruik maken van het vrijwillige gedeelte duidelijk gecommuniceerd moeten worden.
+
+**4. 	Objecttypen en eigenschappen van objecttypen worden zodanig in de SOR opgenomen dat uitbreiding en inkrimping van het aantal objecttypen en eigenschappen en het aanpassen van de kwalificatie van objecttypen en eigenschappen als verplicht of vrijwillig binnen het informatiemodel eenvoudig mogelijk is.**
+
+Het moet mogelijk zijn om de inhoud van de samenhangende objectenregistratie relatief eenvoudig aan te kunnen passen. Dit begint met een informatiemodel dat dergelijke aanpassingen kan faciliteren. Dat betekent dat bijvoorbeeld het onderscheid tussen verplichte en vrijwillige objecten in de registratie niet diepgaand in het uitgewerkte informatiemodel moet worden verankerd. Of aanpassing ook daadwerkelijk zal plaatsvinden is uiteraard afhankelijk van de afspraken die er worden gemaakt over de wijze waarop besluitvorming over wijzigingen plaatsvindt en hoe er wordt omgegaan met de gevolgen daarvan voor bronhouders en gebruikers. Bij het doorvoeren van dit soort wijzigingen moeten er altijd heldere transitieafspraken worden gemaakt.
+
 
 
 ### Scope
