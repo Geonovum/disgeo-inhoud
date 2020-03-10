@@ -261,6 +261,7 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 ||| 	 	Benzinestation|
 ||| 	 	Verzorgingsplaats|
 
+
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (groen)|	Functie:	 ||
@@ -273,6 +274,7 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 ||| 	 	recreatie: bungalowpark|
 ||| 	 	recreatie: volkstuin|
 
+
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (blauw)|	Functie:	 ||
@@ -284,6 +286,7 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 ||| 	 	Waterwingebied|
 |||	 	    waterbergingsgebied|
 |||	 	    infrastructuur waterstaatswerken|
+
 
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
