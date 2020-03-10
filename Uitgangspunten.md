@@ -56,6 +56,7 @@ Hierbij is het belangrijk dat opname van vrijwillige objecten en gegevens door e
 Voor het basisregistratie gedeelte gelden de 12 eisen die aan basisregistraties worden gesteld (https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/gegevens/naar-een-gegevenslandschap/themas/twaalf-eisen-stelsel-van-basisregistraties/) en waarvan voor de verdere uitwerking van de inhoud van de samenhangende objectenregistratie met name de eisen 6 (er is duidelijkheid over inhoud en bereik van de registratie) en 11 (de positie van de basisregistratie binnen het stelsel van basisregistraties is duidelijk en de relaties met de basisregistraties zijn beschreven) van belang zijn.
 
 Het onderscheid tussen het verplichte gedeelte en het vrijwillige gedeelte kan (zoals ook opgenomen in de beleidsvisie) als volgt worden gevisualiseerd:
+
 ![onderscheid verplicht en vrijwillig](media/verplicht_vrijwillig.png)
 
 Dit betekent dus dat gebruikers van het verplichte gedeelte van de samenhangende objectenregistratie zekerheid hebben over de volledigheid van de daarin opgenomen objecten en gegevens. Omdat bronhouders de keuze hebben om objecten of gegevens al dan niet op te nemen in het vrijwillige gedeelte van de objectenregistratie, hebben gebruikers van de samenhangende objectenregistratie die zekerheid niet bij de vrijwillig op te nemen objecten en gegevens. In de communicatie rondom de informatieproducten van de samenhangende objectenregistratie zal dit principe en de mate waarin verschillende bronhouders al dan geen gebruik maken van het vrijwillige gedeelte duidelijk gecommuniceerd moeten worden.
@@ -66,110 +67,53 @@ Het moet mogelijk zijn om de inhoud van de samenhangende objectenregistratie rel
 
 
 
-### Scope
+### Uitgangspunten over de objecttypen
 
-*Beschrijf hier de scope van het rapport, wat wordt wel en niet uitgewerkt en waarom, enz ...* 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+**1.	In de SOR wordt een expliciet onderscheid gemaakt tussen fysieke en functionele objecttypen.**
 
-###	Werkproces
+Bij de uitwerking van de SOR wordt een scheiding aangebracht tussen fysieke objecttypen en functionele objecttypen. De aanleiding is dat definities van functionele objecttypen sterk samenhangen met specifieke gebruikstoepassingen of afsprakenkaders. Fysieke objecttypen worden altijd gedefinieerd door hetgeen in het terrein zichtbaar is. Door in de SOR een strikte scheiding aan te brengen tussen fysieke objecttypen en functionele objecttypen, kunnen duidelijkere regels worden opgesteld over onder meer samenhang en overlap van verschillende objecttypen. Daar waar dat de in de huidige registraties vaak niet mogelijk is, wordt het in de SOR bijvoorbeeld mogelijk dat er meerdere functionele indelingen op één fysieke locatie voorkomen. Hiermee vergroten we de flexibiliteit en de gebruiksmogelijkheden van de SOR enorm. Functionele en fysieke objecttypen worden hierbij altijd als aparte objecttypen gedefinieerd, als de begrenzing ervan kan verschillen .
 
-*Beschrijf hier wat het gevolgde proces is om te komen tot het rapport, denk aan desktop research, expertsessies, consultatierondes, enz ...*
+**2.	Het objectenmodel van de SOR wordt opgebouwd vanuit de kleinste semantische eenheden die het minimum detailniveau aangeven waarvan is vastgesteld dat deze van waarde zijn voor meerdere gebruikers van de registratie.**
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+Bij de uitwerking van de inhoud van de samenhangende objectenregistratie wordt voor de verschillende objecttypen bepaald wat de kleinste semantische eenheid is die nog van belang is voor meerdere gebruikers van de registratie. Dit minimum detailniveau bepaalt daarmee wat voor het betreffende gedeelte van de samenhangende objectenregistratie de kleinste bouwsteen vormt. Op het moment dat bepaalde gebruikers binnen deze kleinste semantische eenheid voor eigen gebruik nog een nadere detaillering wil aanbrengen, dan zal de gebruiker dat als onderdeel van de eigen sectorale registratie zelf nader moeten vormgeven. Hierbij kan bijvoorbeeld worden gedacht aan het nader detailleren van een groenobject in verschillende beplantingsvakken als onderdeel van het werkproces voor het beheren van de openbare ruimte.
 
-###	Stakeholders
+Een onderwerp dat in het kader van dit uitgangspunt in het vervolgtraject nog nader zal moeten worden uitgewerkt is de vraag op welke wijze binnen het conceptueel model zal worden omgegaan met objecten die het gevolg zijn van aggregatie. Hierbij kan bijvoorbeeld worden gedacht aan de momenteel in de BRT voorkomende objecttype “gebouw” dat ontstaat door aggregatie van het in de BAG en de BGT voorkomende objecttype “pand”. Hierbij is in het kader van de SOR het uitgangspunt dat gegevens worden ingewonnen met een mate van detail die behoord bij een schaalniveau 1 : 1000. Geaggregeerde objecten moeten dus op basis van deze gegevens kunnen worden gevormd.
 
-*Geef een overzicht van de Stakeholders, hun rollen, hun belangen enz ...*
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+Vragen die daarbij eveneens zullen moeten worden beantwoord is in hoeverre geaggregeerde objecten ook terug te herleiden moeten zijn tot de verschillende oorspronkelijke objecten en wat er wordt voorgeschreven voor verplicht gebruik bij geaggregeerde objecten (het algoritme of een vastlegging van de uitkomst van dit algoritme).
 
-###	Bestaande registraties
+**3.	Objecten worden in de SOR opgenomen op het moment dat deze volgens de voor het betreffende objecttype gedefinieerde criteria ontstaan en blijven daarna altijd in de registratie aanwezig, waarbij voor elk objecttype is vastgelegd welke levensfasen in de vastlegging van een object worden onderscheiden.**
 
-*Indien van toepassing: Welke bestaande registraties worden geraakt in het rapport, en hoe ...*
+Met dit uitgangspunt wordt beoogd dat de volledige levensloop van een object geregistreerd wordt. Deze levensloop begint op het gedefinieerde ontstaansmoment, dat per objecttype kan verschillen. Zo is voor bepaalde objecttypen een planstatus relevant, terwijl dit voor andere objecttypen minder relevant lijkt. De objecten blijven daarna altijd in de registratie aanwezig. Door middel van een vastlegging van de levensfase van een object kan worden bepaald of een object ook nog als zodanig bestaat. Objecten worden daarbij niet afgevoerd, maar historisch gemaakt. Belangrijk is dus dat gedurende de gehele levensloop sprake is van hetzelfde unieke object (met dezelfde identificatiecode).
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+In de samenhangende objectenregistratie betekent dit ook dat er eensluidende uitgangspunten moeten worden vastgesteld over het te hanteren historiemodel. Het gaat daarbij onder meer om de wijze waarop wordt omgegaan met de modellering van de formele en materiele historie.
 
-###	Wettelijk kader  
 
-*Indien van toepassing: Welke wettelijk geldt voor het rapport?*
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+###	Uitgangspunten over de eigenschappen
 
-###	Relevante standaarden en modellen
 
-*Indien van toepassing: Beschrijf de voor het rapport relevante standaarden en eventuele (reken)modellen*
+**1.	Elk object in de SOR wordt voorzien van een unieke identificatiecode die gedurende de gehele levensloop van een object ongewijzigd blijft .**
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+Elk object in de registratie wordt voorzien van een unieke identificatiecode. Deze identificatiecode maakt het mogelijk om andere gegevens te koppelen aan het betreffende object. Hiervoor is het van belang dat de identificatiecode van een object gedurende de gehele levensloop van een object hetzelfde blijft. Een object blijft op deze wijze voor de gebruiker van de gegevens over het object herkenbaar. Mocht het desalniettemin noodzakelijk zijn wijzigingen aan te brengen in identificatiecodes van objecten, dan zal minimaal moeten worden geborgd dat de oude identificatiecodes gedurende een geruime tijd behouden blijven, om gebruikers de overgang naar de nieuwe identificatiecodes zorgvuldig te laten uitvoeren.
 
-###	Relevante documentatie 
+**2.	Van elk object in de SOR is helder wat de typering is van het betreffende object.**
 
-*Geef een overzicht van de relvante bestaande docuementatie en hoe die wordt gebruikt in het rapport*
+Elk object in de registratie zal altijd moeten worden gekarakteriseerd als een bepaald type object. In het informatiemodel zal daarom moeten worden geborgd dat deze typering is vast te stellen. Dat kan in de verdere uitwerking op twee manieren worden vormgegeven. De eerste manier is via de objecttypenaam. Uit de definitie van het betreffende objecttype volgt dan expliciet wat voor soort object het betreft. Een voorbeeld hiervan zou een objecttype “abri” zijn. Wat voor soort object het betreft kan ook worden vastgelegd door het registreren van een typering als eigenschap van het objecttype. In hetzelfde voorbeeld zou “abri” dan een van de typeringen kunnen zijn die kan worden toegekend aan een objecttype “straatmeubilair”. Op welke wijze typeringen worden opgenomen is afhankelijk van de keuzen die worden gemaakt rondom bepaalde groepen van objecten.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+**3.	Van elk objecttype in de SOR wordt minimaal als eigenschap vastgelegd wat het geometrisch voorkomen is van een object in de registratie conform hetgeen daarover voor het betreffende objecttype is bepaald, waarbij de vastlegging hiervan zodanig wordt vormgegeven dat de driedimensionale (3D) beschrijving van een object kan worden opgenomen.**
 
-<aside class='note'>
-    NB: gebruik de in config.js gedefinieerde localBiblio!
-</aside> 
+Opname van geometrie van alle objecten in de registratie is van essentieel belang voor het goed kunnen functioneren van een geo-basisregistratie. Met geometrie wordt daarbij expliciet bedoeld een geo-gerefereerde vastlegging van de begrenzing van een object.  Met geo-gerefereerde vastlegging wordt bedoeld dat de geometrie is beschreven in de vorm van coördinaten die onderdeel uitmaken van een referentie coördinatenstelsel (in de regel het RD stelsel). De registratie wordt daarbij direct voorbereid op 3D vastlegging van objecten.
 
-| Verwijzing | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n | 
-|------------|---------|---------|---------|---------| 
-| [[PUB-1]]  |         |         |         |         |
-| [[PUB-2]]  |         |         |         |         |
-| [[PUB-3]]  |         |         |         |         |
-| [[PUB-4]]  |         |         |         |         |
+Hierbij kan de wijze van vastlegging verschillen voor de diverse objecttypen. Sommige objecttypen zullen worden vastgelegd in de vorm van 3D volumes. Andere objecttypen als vlakken met een bepaalde hoogteligging. Voor bepaalde objecten met een minimale omvang kan ook geometrische vastlegging in de vorm van een enkel coördinatendrietal (x, y en z) worden vastgelegd (puntobject). 
+
+Speciale aandacht vraagt het geometrisch voorkomen van netwerken. Aan deze geometrie zullen in de regel nadere eisen worden gesteld (zoals een eis dat het netwerk zich moet bevinden binnen de contouren van de bijbehorende fysieke objecten). Ook worden bij dit soort objecten soms ook andere benaderingen gekozen voor het bepalen van de positie op een netwerk (zoals lineair referencing). Daarnaast zal er in de verdere uitwerking ook nog aandacht moeten worden besteed aan andere wijzen van vastlegging van de locatie van objecten. Denk hierbij onder meer aan hectometerpaaltjes, verdiepingsnummers en bouwlagen.
+
+**4.	In de SOR kunnen van bepaalde objecttypen aanvullende eigenschappen worden vastgelegd, als deze van belang zijn voor meerdere gebruikers vanuit verschillende gebruikersdomeinen.**
+
+De samenhangende objectenregistratie heeft primair het karakter van een basisregistratie. Dat betekent dat in de registratie van objecttypen alleen eigenschappen worden vastgelegd die in verschillende overheidsdomeinen worden gebruikt. Hierbij kunnen er tussen verschillende objecttypen grote verschillen bestaan tussen het aantal eigenschappen dat dit betreft. Bij het objecttype ‘pand’ worden bijvoorbeeld aanzienlijk meer eigenschappen vastgelegd dan bij een objecttype ‘tunneldeel’.
+
+**5.	Van elk object in de SOR wordt meta-informatie opgenomen conform hetgeen daarover voor het betreffende objecttype is bepaald.**
+
+Bij meta-informatie gaat het onder meer over informatie over de kwaliteit, ontstaansmoment en versie van het object. Voor het vastleggen van meta-informatie zullen nog nadere afspraken moeten worden ontwikkeld, waarbij het uitgangspunt is dat zoveel mogelijk wordt aangesloten op hiervoor bestaande standaarden. Deze zullen worden toegespitst op de verschillende soorten objecttypen. In de huidige basisregistraties wordt aan dit aspect op verschillende wijzen invulling gegeven. In de BAG wordt gewerkt met verwijzingen naar brondocumenten, in de BGT wordt hieraan op dit moment invulling gegeven met de opname van plaatsbepalingspunten en in de WOZ wordt hiervoor specifieke kwaliteitsinformatie aan de registratie toegevoegd.
+
