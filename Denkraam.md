@@ -122,7 +122,7 @@ Een door het parlement als gemeente in een wet benoemd gedeelte van het Nederlan
 -	Waterschap
 Een Waterschap is een door het bevoegde provinciale orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat als eenheid geldt van politiek/bestuurlijke verantwoordelijkheid voor beheer van het water en de waterstaatszorg. (eerste versie van definitie voor SOR)
 
-### Hoofdinvulling samenhangende objectenregistratie
+## Hoofdinvulling samenhangende objectenregistratie
 
 Opname van de verschillende hiervoor gedefinieerde objecttypen in de eerder gepresenteerde ordening van objecttypen naar fysieke objecttypen, functionele objecttypen en registratieve objecttypen enerzijds en naar hoofdsoorten (verharding, groen, water en bebouwing) anderzijds, levert de volgende hoofdinvulling van de samenhangende objectenregistratie op:
 ![Hoofdinvulling](media/hoofdinvulling.png)

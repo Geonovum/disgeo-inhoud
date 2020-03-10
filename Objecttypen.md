@@ -92,4 +92,217 @@ Voor het objecttype ‘groenobject’ is de typering overgenomen uit de huidige 
 || 	bodembedekkers|
 
 
+**Waterobject**
+Voor het objecttype ‘waterobject’ is de typering uit de huidige BGT|IMGeo 2.1.1 aangescherpt conform eerder gestelde uitgangspunten. Hierdoor is er geen sprake meer van multitypering van watervlakten. Daarnaast is ervoor gekozen om de typering ‘zee’ onder ‘watervlakte’ te plaatsen, Dit heeft als consequentie dat zee op basis van het huidige model van het verplichte deel naar het vrijwillige deel opschuift. Bij de verdere uitwerking zal worden bekeken op welke wijze hiermee kan worden omgegaan. 
+
+|classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|---------------------------|--------------------------------|
+|Type:| |	 
+|||waterloop	|rivier|
+|| 	sloot|
+|| 	kanaal|
+|| 	beek|
+|| 	gracht|
+|| 	bron|
+|watervlakte	|zee|
+|| 	meer|
+|| 	plas|
+|| 	ven|
+|| 	vijver|
+|greppel/droge sloot	 ||
+
+
+**Bebouwing**
+De typering behorende bij de aan gebouwen gerelateerde objecttypen zal in het vervolgtraject nader worden onderzocht.
+
+**Kunstwerkdeel**
+De typering behorende bij kunstwerkdeel is overgenomen uit de huidige BGT|IMGeo 2.1.1 Aangevuld met de objecttyperingen zoals in het voorstel voor IMGeo 2.2 zijn opgenomen, m.u.v. de groeiplaatsinrichting, hiervoor is afstemming met IMBOR2020 nodig.
+
+
+
+|classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|---------------------------|--------------------------------|
+|Type:| |	 	 
+|hoogspanningsmast	 ||
+|gemaal	 ||
+|Perron	 ||
+|sluisdeur	 ||
+|strekdam	 ||
+|Steiger	 ||
+|Stuw	 ||
+|Niet BGT	|keermuur|
+|Niet BGT	|overkluizing|
+|Niet BGT	|duiker|
+|Niet BGT	|faunavoorziening|
+|Niet BGT	|vispassage|
+|Niet BGT	|bodemval|
+|Niet BGT	|coupure|
+|Niet BGT	|ponton|
+|Niet BGT	|voorde|
+|Niet BGT	|hellingbaan|
+|Niet BGT	|vlonder|
+
+**Tunneldeel**
+De typering behorende bij tunneldeel is overgenomen uit de huidige BGT|IMGeo 2.1.1. In het voorstel voor IMGeo 2.2 zijn voor het tunneldeel geen aanvullingen opgenomen.
+
+|classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|---------------------------|--------------------------------|
+|Tunneldeel| |	 
+
+**Overbruggingsdeel**
+De typering behorende bij overbruggingsdeel is overgenomen uit de huidige BGT|IMGeo 2.1.1. In het voorstel voor IMGeo 2.2 zijn voor het overbruggingsdeel geen aanvullingen opgenomen.
+
+|classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|---------------------------|--------------------------------|
+|overbruggingsdeel|Hoort bij type overbrugging: |	
+||	brug|
+|| 	aquaduct|
+|| 	viaduct|
+|| 	ecoduct|
+|| 	fly-over|
+||| 	 
+|| 	Type Overbruggingsdeel
+|| 	dek|
+|| 	landhoofd|
+|| 	pijler|
+|| 	sloof|
+|| 	pyloon|
+
+
+**Constructie**
+De typering behorende bij Constructie is overgenomen uit de huidige BGT|IMGeo 2.1.1 en aangevuld met de objecttyperingen zoals in het voorstel voor IMGeo 2.2 zijn opgenomen.
+
+|classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|---------------------------|--------------------------------|
+|Type:| |	
+|bezinkbak	 ||
+|lage trafo	 ||
+|Bassin	 ||
+|Niet BGT	|sleufsilo|
+|Niet BGT	|infiltratiereservoir|
+
+**Scheiding**
+De typering behorende bij scheiding is overgenomen uit de huidige BGT|IMGeo 2.1.1. In het voorstel voor IMGeo 2.2 zijn voor scheiding geen aanvullingen opgenomen.
+
+|classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|---------------------------|--------------------------------|
+|Type:| |		 
+|Muur	 |
+|Kademuur	 |
+|damwand	 |
+|geluidsscherm	 |
+|walbescherming	 |
+|Hek	 |
+|Niet BGT	|draadraster|
+|Niet BGT	|faunaraster|
+
+## Typering functionele objecttypen in objectenregistratie
+
+**Netwerken**
+Voor de functionele typering van netwerken is aangesloten bij de beschikbare typeringen in de BGT|IMGeo voor wegen en spoor. Verdere afstemming is nodig met NWB, IMBOR/IMWV, Prorail en de watersector. Voor wegverbindingen zijn de voorstellen voor IMGeo 2.2 overgenomen. Voor spoorverbindingen is de typering vereenvoudigd, het uitgangspunt dat objecttypen scherp zijn afgebakend, maakt dat typering sneltram is vervallen en dat havenkraan, vervangen is door (laad-/los)kraan.
+
+|Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|-----------|---------------------------|--------------------------------|
+|Wegverbindingen|	Functie:	 ||
+|| 	OV-baan	 ||
+|| 	overweg	 ||
+|| 	spoorbaan	 ||
+|| 	baan voor vliegverkeer	 ||
+|| 	rijbaan autosnelweg	|Verbindingsweg|
+||| 	 	calamiteitendoorsteek|
+|||		Verkeersdrempel|
+|| 	rijbaan autoweg	|Verbindingsweg|
+||| 	 	calamiteitendoorsteek|
+|||		Verkeersdrempel|
+|| 	rijbaan regionale weg	|Verbindingsweg|
+|||		Verkeersdrempel|
+||	rijbaan lokale weg	|Verkeersdrempel|
+||	fietspad	|Verkeersdrempel|
+||	voetpad	||
+||	voetpad op trap	||
+||	ruiterpad	||
+||	inrit	||
+|||| 	 	 
+|Spoorverbindingen	|Functie:	 ||
+|| 	trein	 ||
+|| 	tram	 ||
+||| 	 	(laad/los-)kraan|
+|||| 	 	 
+|Waterwegverbindingen	|Functie:	 ||
+|| 	vaaweg	 ||
+|| 	hydrologie???	 ||
+|||| 	 	 
+||Knooppunten	\Type:	 |
+|| 	kruispunt fysieke wegen	 ||
+|| 	overweg	 ||
+|| 	wijziging attribuutwaarde	 ||
+|| 	tussenpunt	 ||
+||||
+
+**Functionele gebieden**
+De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en blauwe gebieden met een objecttypering. Deze indeling is functioneel ingestoken en heeft geen relatie met het fysieke voorkomen in het terrein. Hierbij is aangesloten op de typering zoals voor BGT|IMGeo wordt gebruikt, inclusief de voostellen voor IMGeo 2.2. Als gevolg van het uitgangspunt dat fysiek en functie worden gescheiden zijn een aantal functies verschoven van voorheen een typering bij een fysiek object naar een eigenstandig functioneel object.  
+
+|Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|-----------|---------------------------|--------------------------------|
+|Functioneel Gebied (grijs)|	Functie:	 ||
+|| 	verkeerseiland	|Vluchtheuvel|
+||| 	 	Verkeersdruppel|
+|| 	berm	 ||
+|| 	parkeervlak	|Carpoolplaats|
+||| 	 	Halteplaats
+|||	 	verkeersaansluiting
+||| 	 	verkeersknooppunt|
+||| 	 	Verkeerskruispunt|
+||| 	 	Verkeerszone|
+||| 	 	Voetgangersgebied|
+||| 	 	Woonerf|
+||| 	 	infrastructuur verkeer en vervoer|
+||| 	 	Bushalte|
+||| 	 	Benzinestation|
+||| 	 	Verzorgingsplaats|
+
+|Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|-----------|---------------------------|--------------------------------|
+|Functioneel Gebied (groen)|	Functie:	 ||
+||	oever/slootkant	 ||
+||| 	 	Landbouw|
+||| 	 	recreatie: speeltuin|
+||| 	 	recreatie: park|
+||| 	 	recreatie: sportterrein|
+||| 	 	recreatie: camping|
+||| 	 	recreatie: bungalowpark|
+||| 	 	recreatie: volkstuin|
+
+|Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|-----------|---------------------------|--------------------------------|
+|Functioneel Gebied (blauw)|	Functie:	 ||
+||kering	 ||
+|| 	haven	 ||
+||| 	 	opstelpunt open water|
+||| 	 	Sluiscomplex|
+||| 	 	Zuiveringscomplex|
+||| 	 	Waterwingebied|
+|||	 	    waterbergingsgebied|
+|||	 	    infrastructuur waterstaatswerken|
+
+|Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|-----------|---------------------------|--------------------------------|
+|Functioneel Gebied |	Type:	 ||	 
+|| 	Niet BGT	Stiltegebied|
+|| 	Niet BGT	Zonnepanelenveld|
+|| 	Niet BGT	Bedrijvigheid|
+||	Niet BGT	natuur en landschap|
+|| 	Niet BGT	Bewoning|
+|| 	Niet BGT	maatschappelijke en/of publieksvoorziening|
+|| 	Niet BGT	Recreatie|
+|| 	Niet BGT	Begraafplaats|
+|| 	Niet BGT	functioneel beheer|
+|| 	Niet BGT	functioneel beheer: hondenuitlaatplaats|
+
+**Verblijfsobject**
+|Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
+|-----------|---------------------------|--------------------------------|
+|verblijfsobject|	 ||		 
+
+***+Functionele objecten uit BRT**
 
