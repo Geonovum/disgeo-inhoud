@@ -1,37 +1,40 @@
 ## Bijlagen
 
-### Bijlage A
+### Bijlage 1 Lijst met afkortingen
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
 
-### Bijlage B
+|TERM	|OMSCHRIJVING|
+|-------|------------|
+|Aquo	|Standaard binnen de watersector|
+|BAG	|Basisregistratie Adressen en Gebouwen|
+|BGT	|Basisregistratie Grootschalige Topografie|
+|BOR	|Beheer Openbare Ruimte|
+|BRK	|Basisregistratie Kadaster|
+|BRT	|Basisregistratie Topografie|
+|IMBOR	|Informatiemodel Beheer Openbare Ruimte (CROW)|
+|IMGeo	|Informatiemodel Geografie|
+|IMWV	|Informatiemodel Wegen en Verkeer (CROW)|
+|NWB	|Nationaal Wegenbestand (RWS)|
+|SOR	|Samenhangende Objectenregistratie|
+|WOZ	|Basisregistratie Waardering Onroerende Zaken|
+|3D	    |Het begrip driedimensionaal of 3D duidt in |
+|       |dit geval aan dat de geometrie van een |
+|       |ruimtelijk object met drie meetkundige |
+|       |dimensies wordt beschreven en vastgelegd|
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+ 
+### Bijlage 2 Voorbeelden onderscheid fysieke objecten en functionele objecten
+In de SOR worden functionele en fysieke objecten altijd als aparte objecttypen getypeerd, als de begrenzing ervan kan verschillen. Hieronder zijn een aantal voorbeelden opgenomen die het  onderscheid tussen functionele en fysieke objecten laten zien.
 
-### Bijlage C
+![park](media/park.png)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+![oever](media/oever.png)
+
+
+### Bijlage 3 Uitwerking vervolg
+
+
+
+
+### Bijlage 4 aanbevelingen van interbestuurlijke werkgroepen
+
