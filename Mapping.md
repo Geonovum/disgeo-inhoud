@@ -5,8 +5,7 @@ In het in hoofdstuk 3 beschreven denkraam bestaat voor een groot deel uit object
 ### Fysieke objecttypen
 De mapping op de bestaande basisregistraties van de fysieke objecttypen, die van belang zijn voor het criterium dat Nederland op maaiveldniveau voor 100% bedekt moet zijn met fysieke objecttypen, levert het volgende eerste resultaat op:
 
-|SOR-objecttype      |huidige        |              |
-|                    |BR             |object        |
+|SOR-objecttype      |huidige BR     |object             |
 |--------------------|---------------|--------------|
 |verhardingsobject	 |BGT	         |wegdeel       |
 | 	                 |BGT	         |onbegroeid terreindeel|
@@ -57,8 +56,7 @@ Het SOR-objectype ‘constructie’ bestaat uit de verschillende bouwwerken uit 
 ## Functionele Objecttypen 
 De mapping op de bestaande basisregistraties van de functionele objecttypen levert het volgende eerste resultaat op:
 
-|SOR-objecttype      |huidige        |              |
-|                    |BR             |object        |
+|SOR-objecttype      |huidige BR     |object             |
 |--------------------|---------------|--------------|
 |verblijfsobject	 |BAG 	         |verblijfsobject       |
 |functioneel gebied	 |BGT	         |functioneel gebied|
@@ -81,8 +79,7 @@ In de SOR worden opgenomen objecttypen die de netwerktopografie van wegen, water
 ## Registratieve objecttypen
 De mapping op de bestaande basisregistraties van de registratieve objecttypen levert het volgende eerste resultaat op:
 
-|SOR-objecttype      |huidige        |              |
-|                    |BR             |object        |
+|SOR-objecttype      |huidige BR     |object             |
 |--------------------|---------------|--------------|
 |woonplaats      	 |BAG 	         |woonplaats    |
 |openbare ruimte	 |BAG	|openbare ruimte|
