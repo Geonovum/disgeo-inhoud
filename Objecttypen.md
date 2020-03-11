@@ -259,11 +259,9 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 ||| 	 	infrastructuur verkeer en vervoer|
 ||| 	 	Bushalte|
 ||| 	 	Benzinestation|
-||| 	 	Verzorgingsplaats|
-
-
-
-
+||| 	 	Verzorgingsplaats|  
+  
+    
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (groen)|	Functie:	 ||
@@ -274,11 +272,10 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 ||| 	 	recreatie: sportterrein|
 ||| 	 	recreatie: camping|
 ||| 	 	recreatie: bungalowpark|
-||| 	 	recreatie: volkstuin|
-
-
-
-
+||| 	 	recreatie: volkstuin|  
+  
+    
+    
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (blauw)|	Functie:	 ||
@@ -289,11 +286,10 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 ||| 	 	Zuiveringscomplex|
 ||| 	 	Waterwingebied|
 |||	 	    waterbergingsgebied|
-|||	 	    infrastructuur waterstaatswerken|
-
-
-
-
+|||	 	    infrastructuur waterstaatswerken|  
+  
+    
+    
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied |	Type:	 ||	 
@@ -306,8 +302,9 @@ De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en b
 || 	Niet BGT	|Recreatie|
 || 	Niet BGT	|Begraafplaats|
 || 	Niet BGT	|functioneel beheer|
-|| 	Niet BGT	|functioneel beheer: hondenuitlaatplaats|
-
+|| 	Niet BGT	|functioneel beheer: hondenuitlaatplaats|  
+  
+  
 **Verblijfsobject**
 
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
