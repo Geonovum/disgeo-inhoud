@@ -68,29 +68,24 @@ var respecConfig =
   editors: 
  [
     {
-      name:       "Naam Editor-1",
+      name:       "Dick Krijtenburg",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
-    {
-      name:       "Naam Editor-n",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
-  ],
+    ],
   //-- de namen van de Author(s) ------------------------------------------------------
   //-- vul in: per Author: name:, company:, companyURL: -------------------------------
   authors: 
   [
     {
-      name:       "Naam Auteur-1",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
+      name:       "Sandra Leijten",
+      company:    "VNG",
+      companyURL: "https://www.vng.nl"
     }, 
     {
-      name:       "Naam Auteur-2",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
+      name:       "Marcel Rietdijk",
+      company:    "VNG",
+      companyURL: "https://www.vng.nl"
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
