@@ -15,7 +15,7 @@ Deze versie van dit document is tot stand gekomen door de werkgroep "inhoud van 
 | Marcel Rietdijk	        |VNG Realisatie |
 | Richard Witmer	        |Kadaster|
 
-
+ 
 **Versiebeheer**
 
 Dit document is aan verandering onderhevig. Het versiebeheer van het document geeft inzicht in wijzigen en de actualiteit ervan.
