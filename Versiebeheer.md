@@ -2,19 +2,18 @@
 
 ## Colofon
 
-Aan de totstandkoming van deze versie van dit document hebben de volgende perosonen
- meegewerkt:
+Deze versie van dit document is tot stand gekomen door de werkgroep "inhoud van de samenhangende objectenregistratie" van DiSGeo, waar de volgende personen deel van uitmaken:
 
 | Naam                      | Organisatie    | 
 |---------------------------|----------------|
 | Martijn Odijk             | Ministerie BZK       | 
-|Koos Boersma	            |Informatiehuis Water|
-|Stefan van Gerwen	        |Provincie Noord Brabant|
-|Remco in ’t Hout	        |Rijkswaterstaat|
-|Dick Krijtenburg	        |Geonovum|
-|Sandra Leijten	            |VNG realisatie|
-|Marcel Rietdijk	        |VNG realisatie |
-|Richard Witmer	            |Kadaster|
+| Koos Boersma	            |Informatiehuis Water|
+| Stefan van Gerwen	        |Provincie Noord Brabant|
+| Remco in ’t Hout	        |Rijkswaterstaat|
+| Dick Krijtenburg	        |Geonovum|
+| Sandra Leijten	        |VNG Realisatie|
+| Marcel Rietdijk	        |VNG Realisatie |
+| Richard Witmer	        |Kadaster|
 
 
 **Versiebeheer**
