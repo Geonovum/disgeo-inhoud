@@ -4,8 +4,7 @@
 
 Een belangrijk uitgangspunt voor de verdere uitwerking van de inhoud van de SOR is een strikte scheiding tussen fysieke objecttypen en functionele objecttypen. Fysieke objecttypen zijn in de werkelijkheid voorkomende tastbare objecttypen, zoals gebouwen, verharding, water, spoorlijnen en bomen. Fysieke objecttypen worden altijd gedefinieerd door hetgeen in het terrein zichtbaar is. Functionele objecttypen hangen altijd samen met specifieke gebruikersbehoeften of formele afsprakenkaders. De definitie van deze objecttypen wordt dan ook altijd bepaald door hetgeen partijen hierover gezamenlijk vastleggen zonder dat dit altijd direct te relateren is aan in het terrein zichtbare onderdelen. Denk aan objecttypen als een park, een carpoolplaats of een waterbergingsgebied, waarvan de begrenzing niet direct tastbaar in het terrein is te constateren, maar volledig wordt bepaald door de exacte afspraken die daarover zijn gemaakt (zoals: hoort de berm van de carpoolplaats wel of niet tot de carpoolplaats?).
 
-[!NOTE]
-Voorbeeld
+[!NOTE]Voorbeeld
 Van een weg wordt de verharding, bijvoorbeeld asfalt of gebakken klinkers, als een verhardingsobject vastgelegd met type ‘asfalt’ of ‘gebakken klinkers’. De functie van die weg wordt vastgelegd alss functioneel gebied. Het functionele gebied zal iets zeggen over het gebruik van de weg, dus is het een ‘rijbaan autosnelweg’ of is het een ‘rijbaan lokale weg’. Maar het kan ook iets zeggen over bijvoorbeeld de weggebruikers die van deze weg gebruik mogen maken, zoals ‘auto’, ‘fietser’ of ‘voetganger’. Daarmee zijn er voor een weg dus al twee functionele indelingen die algemeen gebruikt worden.
 
 
@@ -29,8 +28,7 @@ Fysieke objecttypen zijn in de werkelijkheid voorkomende zichtbare en tastbare o
 
 Tot de opdelende fysieke objecttypen worden de volgende objecttypen (met de daarbij behorende definitie) gerekend: 
 
-[!NOTE]
-Nadere discussie: Onderstaande definities zijn in lijn met de meest recente voorstellen voor de nieuwe NEN3610 en nog niet ingevuld voor bebouwing in afwachting van de werkgroep resultaten; de gele gedeelten vragen in ieder geval nog om nadere discussie
+[!NOTE]Nadere discussie: Onderstaande definities zijn in lijn met de meest recente voorstellen voor de nieuwe NEN3610 en nog niet ingevuld voor bebouwing in afwachting van de werkgroep resultaten; de gele gedeelten vragen in ieder geval nog om nadere discussie
 
 
 -	Verhardingsobject
@@ -71,8 +69,7 @@ Functionele objecttypen in de objectenregistratie zijn:
 -	Functioneel gebied
 Door functie of gebruik begrenst gebied. (herkomst definitie: Voorstel NEN3610)
 
-[!NOTE]
-hieronder vallen dus ook specifieke breed gebruikte zoneringen zoals bebouwde kom; nader zal nog moeten worden bepaald hoe deze zich verhouden tot de hier onderscheiden administratieve gebieden
+[!NOTE]Hieronder vallen dus ook specifieke breed gebruikte zoneringen zoals bebouwde kom; nader zal nog moeten worden bepaald hoe deze zich verhouden tot de hier onderscheiden administratieve gebieden
 
 -	Netwerken voor wegen, water en spoor
 Een samenhangend stelsel van aan elkaar gesloten wegen, vaarwegen en spoorwegen met als doel verplaatsing tussen twee locaties mogelijk te maken middels de beoogde modaliteit. Dit is opgebouwd uit verbindingen en knooppunten. (herkomst definitie: Voorstel NEN3610)
@@ -94,8 +91,7 @@ Een Openbare ruimte is een door het bevoegde gemeentelijke orgaan als zodanig aa
 -	Nummeraanduiding
 Een Nummeraanduiding is een door het bevoegde gemeentelijke orgaan als zodanig toegekende aanduiding van een verblijfsobject, een standplaats of een ligplaats. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
-[!NOTE]
-deze zal nog nader moeten worden beschouwd omdat er feitelijk sprake is van een uniform attribuut voor verschillende adresseerbare objecten = verblijfsobjecten, standplaatsen en ligplaatsen 
+[!NOTE]Deze zal nog nader moeten worden beschouwd omdat er feitelijk sprake is van een uniform attribuut voor verschillende adresseerbare objecten = verblijfsobjecten, standplaatsen en ligplaatsen 
 
 
 -	Ligplaats
