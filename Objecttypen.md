@@ -98,7 +98,7 @@ Voor het objecttype ‘waterobject’ is de typering uit de huidige BGT|IMGeo 2.
 |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |---------------------------|--------------------------------|
 |Type:| |	 
-|||waterloop	|rivier|
+|waterloop	|rivier|
 || 	sloot|
 || 	kanaal|
 || 	beek|
