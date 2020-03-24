@@ -1,8 +1,5 @@
 ## Inleiding 
 
-*Hier de inleiding, een generieke tekst over het onderwerp van het rapport, de omgeving van eht rapport, enz ...* 
-
-
 ### Aanleiding
 
 In Nederland wordt heel veel informatie bijgehouden over objecten die we buiten in het terrein aantreffen. Bij die objecten kan worden gedacht aan wegen, water, gebouwen, spoorlijnen en bomen. Een deel van de over deze objecten vastgelegde informatie is alleen van belang voor heel specifieke toepassingen. Denk hierbij bijvoorbeeld aan het aantal keren dat een grasveld per jaar wordt gemaaid (maai-regiem). Deze informatie is in het algemeen niet voor iedereen van belang. Er is echter ook informatie die breed wordt gebruikt. Denk dan bijvoorbeeld aan het bouwjaar van een gebouw. 

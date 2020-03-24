@@ -66,7 +66,7 @@ Functionele objecttypen zijn objecttypen waarvan de begrenzing altijd wordt bepa
 Deze functionele gebieden (vlak) zijn niet landsdekkend, dit betekent dat ongeacht het niveau, maaiveld of onder/boven maaiveld, functionele objecten het grondgebied van Nederland niet voor 100%  bedekken. Dit betekent dan dus dat objecten elkaar mogen overlappen en dat er gaten mogen voorkomen. In de SOR worden uitsluitend functionele objecten opgenomen die van belang zijn voor meerdere gebruikers in verschillende overheidsdomeinen.
 Functionele objecttypen in de objectenregistratie zijn:
 -	Functioneel gebied
-Door functie of gebruik begrenst gebied. (herkomst definitie: Voorstel NEN3610)
+Door functie of gebruik begrensd gebied. (herkomst definitie: Voorstel NEN3610)
 
 ```Hieronder vallen dus ook specifieke breed gebruikte zoneringen zoals bebouwde kom; nader zal nog moeten worden bepaald hoe deze zich verhouden tot de hier onderscheiden administratieve gebieden.```
 
