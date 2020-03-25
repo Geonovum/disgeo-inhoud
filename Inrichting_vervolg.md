@@ -7,7 +7,7 @@ In dit document zijn de hoofdlijnen beschreven van de inhoud van een samenhangen
 In dit hoofdstuk wordt nader ingegaan op de eerste beelden die er bestaan bij de noodzakelijke verdere uitwerking van deze hoofdelementen in het vervolgtraject.
 
 ### Inhoudelijke uitwerkingspunten
-Bij het opstellen van het denkraam is geconstateerd dat er minimale een verdere uitwerking zal moeten plaatsvinden van een aantal onderwerpen. Deze onderwerpen zijn hieronder geordend naar enerzijds het eerder in dit document gemaakte onderscheid naar een drietal hoofdgroepen van objecttypen (fysieke objecttypen, functionele objecttypen en registratieve objecttypen) en anderzijds naar een onderscheid in uitwerkpunten die betrekking hebben op kaders, objecttypen en eigenschappen. Dat levert op basis van de huidige inzichten het volgende eerste overzicht van inhoudelijke uitwerkingspunten op:
+Bij het opstellen van het denkraam is geconstateerd dat er minimaal een verdere uitwerking zal moeten plaatsvinden van een aantal onderwerpen. Deze onderwerpen zijn hieronder geordend naar enerzijds het eerder in dit document gemaakte onderscheid naar een drietal hoofdgroepen van objecttypen (fysieke objecttypen, functionele objecttypen en registratieve objecttypen) en anderzijds naar een onderscheid in uitwerkpunten die betrekking hebben op kaders, objecttypen en eigenschappen. Dat levert op basis van de huidige inzichten het volgende eerste overzicht van inhoudelijke uitwerkingspunten op:
 
 |	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
 |---------------|-----------------------------|--------------------------------|-------------|
@@ -40,12 +40,12 @@ Hierbij is het de verwachting dat bij de verdere uitwerking van de inhoud er nog
 ## Organisatie van de verdere uitwerking
 
 ### coördinatie inhoudelijk spoor
-De hierboven genoemde inhoudelijke uitwerkingspunten zullen op verschillende tafels, in verschillende samenstellingen en op verschillende momenten worden opgepakt. Het is daarom belangrijk dat de verschillende inhoudelijke uitwerkingen onderling op elkaar blijven aansluiten. Een belangrijke aandachtspunt in het vervolgtraject is dan ook de coördinatie van de verschillende uitwerkingsactiviteiten. Deze coördinatie betekent concreet:
+De hierboven genoemde inhoudelijke uitwerkingspunten zullen op verschillende tafels, in verschillende samenstellingen en op verschillende momenten worden opgepakt. Het is daarom belangrijk dat de verschillende inhoudelijke uitwerkingen onderling op elkaar blijven aansluiten. Een belangrijk aandachtspunt in het vervolgtraject is dan ook de coördinatie van de verschillende uitwerkingsactiviteiten. Deze coördinatie betekent concreet:
 
 - Het initiëren van de concrete uitwerking door betrokken partijen;
 - Het aanjagen van de voortgang van deze uitwerkingsactiviteiten;
 - Het bewaken van de aansluiting op geformuleerde uitgangspunten;
-- Het bevorderen onderlinge consistentie van de verschillende uitwerkingen.
+- Het bevorderen van de onderlinge consistentie van de verschillende uitwerkingen.
 
 De coördinatie van het inhoudelijk spoor zal formeel plaatsvinden vanuit de werkgroep inhoud. In de praktijk zal dit betekenen dat een aantal deelnemers aan deze werkgroep zorgdragen voor de dagelijkse uitvoering van deze coördinatie.
 

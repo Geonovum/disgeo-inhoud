@@ -24,7 +24,7 @@
 
  
 ### Bijlage 2 Voorbeelden onderscheid fysieke objecten en functionele objecten
-In de SOR worden functionele en fysieke objecten altijd als aparte objecttypen getypeerd, als de begrenzing ervan kan verschillen. Hieronder zijn een aantal voorbeelden opgenomen die het  onderscheid tussen functionele en fysieke objecten laten zien.
+In de SOR worden functionele en fysieke objecten altijd als aparte objecttypen getypeerd, als de begrenzing ervan kan verschillen. Hieronder zijn een aantal voorbeelden opgenomen die het onderscheid tussen functionele en fysieke objecten laten zien.
 
 ![park](media/park.png)
 
