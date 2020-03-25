@@ -203,13 +203,13 @@ Voor de functionele typering van netwerken is aangesloten bij de beschikbare typ
 
 <style>
 table th:first-of-type {
-    width: 40%;
+    width:200px;
 }
 table th:nth-of-type(2) {
-    width: 30%;
+    width:150px;
 }
 table th:nth-of-type(3) {
-    width: 30%;
+    width:150px;
 }
 </style>
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
