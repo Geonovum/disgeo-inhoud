@@ -4,10 +4,10 @@ In dit document zijn de hoofdlijnen beschreven van de inhoud van een samenhangen
 
 ![hoofdelementen](media/hoofdelementen.png)
 
-In dit hoofdstuk wordt nader ingegaan op de wijze waarop deze hoofdelementen in het vervolgtraject zullen worden vormgegeven.
+In dit hoofdstuk wordt nader ingegaan op de eerste beelden die er bestaan bij de noodzakelijke verdere uitwerking van deze hoofdelementen in het vervolgtraject.
 
 ### Inhoudelijke uitwerkingspunten
-Bij het opstellen van het voorliggende document is geconstateerd dat er minimale een verdere uitwerking zal moeten plaatsvinden van een aantal onderwerpen. Deze onderwerpen zijn hieronder geordend naar enerzijds het eerder in dit document gemaakte onderscheid naar een drietal hoofdgroepen van objecttypen (fysieke objecttypen, functionele objecttypen en registratieve objecttypen) en anderzijds naar een onderscheid in uitwerkpunten die betrekking hebben op kaders, objecttypen en eigenschappen. Dat levert op basis van de huidige inzichten het volgende overzicht op:
+Bij het opstellen van het denkraam is geconstateerd dat er minimale een verdere uitwerking zal moeten plaatsvinden van een aantal onderwerpen. Deze onderwerpen zijn hieronder geordend naar enerzijds het eerder in dit document gemaakte onderscheid naar een drietal hoofdgroepen van objecttypen (fysieke objecttypen, functionele objecttypen en registratieve objecttypen) en anderzijds naar een onderscheid in uitwerkpunten die betrekking hebben op kaders, objecttypen en eigenschappen. Dat levert op basis van de huidige inzichten het volgende eerste overzicht van inhoudelijke uitwerkingspunten op:
 
 |	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
 |---------------|-----------------------------|--------------------------------|-------------|
@@ -50,7 +50,19 @@ De hierboven genoemde inhoudelijke uitwerkingspunten zullen op verschillende taf
 De coördinatie van het inhoudelijk spoor zal formeel plaatsvinden vanuit de werkgroep inhoud. In de praktijk zal dit betekenen dat een aantal deelnemers aan deze werkgroep zorgdragen voor de dagelijkse uitvoering van deze coördinatie.
 
 ####inhoudelijke kaders
-In het bovenstaande overzicht zijn een aantal algemene onderwerpen en inhoudelijke kaders benoemd die om een nadere uitwerking vragen. Deze uitwerking zal plaatsvinden met de gehele werkgroep inhoud of (omwille van de voortgang) primair door enkele deelnemers daarvan. Naar gelang het onderwerp zullen daarbij ook andere deskundigen worden aangehaakt. In alle gevallen zal de voorbereiding in kleiner verband plaatsvinden en de resultaten in de werkgroep inhoud worden besproken. 
+In het bovenstaande overzicht zijn een aantal algemene onderwerpen en inhoudelijke kaders benoemd die om een nadere uitwerking vragen. Deze voorbereiding van deze uitwerking zal plaatsvinden door enkele deelnemers van de werkgroep inhoud, waarbij naar gelang het onderwerp eventueel ook andere deskundigen worden aangehaakt. In alle gevallen zullen de resultaten in de werkgroep inhoud worden besproken. Het gaat in ieder geval om de volgende onderwerpen:
+
+|	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
+|---------------|-----------------------------|--------------------------------|-------------|
+|**Algemeen**	|Plaats aggregatie en uiteenrafelen in het model	|Uitwerking kader levensfasen objecten	    |Uitwerking identificatiecode objecten|
+|               |Verdere uitwerking hoofdstructuur                  |Uitwerken mate van detail (schaalniveau)	|Uitwerking eerste overzicht gegevens|
+|               |Uitwerking historiemodel		                    |                                           |Uitwerking 3D (afstemming)|
+|               |Uitwerking meta-informatie (MIM) zoals kwaliteit	|                                           |Omgang met bronverwijzing (zoals PBP's)|
+|---------------|-----------------------------|--------------------------------|-------------|
+|**Fysieke objecten**	|Uitwerking criterium maaiveld 100%	        |     | |
+|               |Uitwerking criterium ondergrondse delen	        |	||
+|               |Uitwerking grondgebied Nederland	                |          ||
+|               |Aanscherping definitie opdelende objecttypen	    |    ||
 
 Hierbij wordt met de verschillende onderwerpen globaal het volgende bedoeld:
 - **Plaats aggregatie en uiteenrafelen in het model** : 
@@ -69,14 +81,6 @@ uitwerking van de exacte afbakeningsregels voor ondergrondse delen (van welke ob
 er zal moeten worden bepaald of en op welke wijze het grondgebied van Nederland voor de samenhangende objectenregistratie zal worden afgebakend (continentaal plat in de Noordzee en de overzeese gebiedsdelen);
 - **Aanscherpen definitie opdelende objecttypen** : 
 een exacte beschrijving van alle opdelende objecttypen en de daarbij behorende afbakeningsregels op basis van een gedetailleerde afstemming op andere informatiemodellen (zoals de nieuwe NEN 3610 en sectorale informatiemodellen);
-- **Uitwerken inrichtingselementen** : 
-een exacte beschrijving van alle inrichtingselementen en de daarbij behorende afbakeningsregels op basis van een gedetailleerde afstemming op andere informatiemodellen (zoals de nieuwe NEN 3610 en sectorale informatiemodellen);
-- **Uitwerken samenhang met BRT objecttypen** : 
-een gedetailleerde analyse van de overeenkomsten en verschillen met de in de BRT opgenomen (fysieke, functionele en registratieve) objecttypen en het opstellen van beschrijvingen van de wijze waarop deze in het conceptueel model van de samenhangende objectenregistratie kunnen worden ingepast (in afstemming met de activiteiten die hiervoor lopen in het vernieuwingstraject van de BRT);
-- **Aanscherpen definitie functionele objecttypen** : 
-een exacte beschrijving van alle functionele objecttypen en de daarbij behorende afbakeningsregels op basis van een gedetailleerde afstemming op andere informatiemodellen (zoals sectorale informatiemodellen en de BRT);
-- **Uitwerken eerste lijst functionele gebieden** : 
-een gedetailleerde analyse van de verschillende breed gebruikte typen functionele gebieden die er kunnen worden onderscheiden en het opstellen van beschrijvingen van de wijze waarop deze in het conceptueel model van de samenhangende objectenregistratie kunnen worden ingepast;
 - **Uitwerken kader levensfasen objecten** : 
 een nadere uitwerking van de wijze waarop in de samenhangende objectenregistratie invulling kan worden gegeven aan de verschillende levensstadia waarin objecten kunnen fungeren (met enerzijds aandacht voor algemene voor alle objecttypen geldende uitgangspunten en anderzijds een verbijzondering daarvan voor enkele specifieke objecttypen);
 - **Uitwerken mate van detail (schaalniveau)** : 
@@ -91,30 +95,41 @@ nadere inhoudelijke afstemming met de verschillende ontwikkelingen die er lopen 
 nadere uitwerking van de wijze waarop binnen de samenhangende objectenregistratie op een uniforme wijze een verwijzing kan plaatsvinden naar bronnen waarop objecten of gegevens zijn gebaseerd (zoals brondocumenten of plaatsbepalingspunten) en de wijze waarop hiervoor voor verschillende objecttypen differentiatie kan plaatsvinden.
 
 #### Inhoudelijke specials
-Bij het opstellen van deze eerste beschrijving van de inhoud van de objectenregistratie zijn tal van uitwerkpunten benoemd, die noodzakelijk zijn om te komen tot een gedetailleerd conceptueel informatiemodel. Deze uitwerking zal plaatsvinden door of met experts vanuit verschillende domeinen en organisaties. Hierbij wordt van sommige uitwerkingspunten verwacht dat deze een dusdanige complexiteit kennen, dat het wenselijk is hiervoor een tijdelijke detailwerkgroep in te stellen, die in opdracht van de werkgroep inhoud bepaalde inhoudelijke onderwerpen verder uitwerkt. Van andere onderwerpen wordt verwacht dat deze (na een goede voorbereiding in kleiner verband) in voldoende mate kunnen worden uitgewerkt binnen een eenmalige werksessie met de meest betrokken experts. 
+Bij het opstellen van deze eerste beschrijving van de inhoud van de objectenregistratie zijn ook tal van specifieke uitwerkpunten benoemd, die noodzakelijk zijn om te komen tot een gedetailleerd conceptueel informatiemodel. Deze uitwerking zal plaatsvinden door of met experts vanuit verschillende domeinen en organisaties. Hierbij wordt van enkele uitwerkingspunten verwacht dat deze een dusdanige complexiteit kennen, dat het wenselijk is hiervoor een tijdelijke detailwerkgroep in te stellen, die in opdracht van de werkgroep inhoud bepaalde inhoudelijke onderwerpen verder uitwerkt. Van andere onderwerpen wordt verwacht dat deze (na een goede voorbereiding in kleiner verband) in voldoende mate kunnen worden uitgewerkt binnen bijvoorbeeld een eenmalige werksessie met de meest betrokken experts. Het gaat daarbij op dit moment dus om de volgende onderwerpen:
 
-Hierbij wordt dus op basis van de huidige inzichten vier detailwerkgroepen ingesteld:
-1.	Werkgroep gebouwen (wge)
-1.	Werkgroep kunstwerken en keringen (wkk)
-1.	Werkgroep netwerken (wne)
-1.	Werkgroep naamgeving (wna)
 
-Aanvullend worden voor de volgende clusters bijeenkomsten georganiseerd:
-1. werkgroep blauw
-1. werkgroep groen
-1. werkgroep grijs
-1. werkgroep functioneel algemeen
-1. werkgroep registratieve objecttypen
-1. werksessie scheidingen
+|	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
+|---------------|-----------------------------|--------------------------------|-------------|
+|**Algemeen**	|                             |	                               |             |
+|---------------|-----------------------------|--------------------------------|-------------|
+|**Fysieke objecten**	| |Uitwerking objectenmodel gebouwen 	        |Typering gebouwen |
+|               |	      |Uitwerking kunstwerken, tunnels en overbruggingen 	|Typering verhardingsobject|
+|               |         |Uitwerking scheiding	                    |Typering groenobject|
+|               |	    |Fysieke begrenzing water	                |Typering waterobject|
+|               |Uitwerking inrichtingselementen		|||
+|               |Uitwerking samenhang met BRT objecten		|||
+|---------------|-----------------------------|--------------------------------|-------------|
+|**Functionele objecten**	|Aanscherping definitie functionele objecttypen	|Uitwerking objectenmodel gebouwen 	|Typering functionele gebieden|
+|               |Uitwerking eerste lijst functionele gebieden	    |Uitwerking keringen 	                    |Typering functionele gebieden verharding|
+|               |Uitwerking samenhang met BRT objecten	            |Uitwerking netwerken als onderdeel registratie 	|Typering functionele gebieden groen|
+|               |                                                   |Functionele gebieden natuur	                    Typering functionele gebieden water|
+|---------------|-----------------------------|--------------------------------|-------------|
+|**Registratieve objecten**	|Uitwerking samenhang met BRT objecten  |Uitwerking openbare ruimten geometrie	    |Typering registratieve gebieden|
+|               |                                                   |Naamgeving andere objecten 	||
+|               |                                                   |Wijken, buurten en territoriale indelingen	||
+|               |                                                   |Uitwerking bebouwde kom	||
+|               |                                                   |Bestuurlijke gebieden|	|
 
-In bijlage 3 zijn de opdrachtomschrijvingen opgenomen aan de verschillende werkgroepen en de invulling van de verschillende clusters.
+
+De organisatorische invulling van deze specifieke inhoudelijke uitwerkingen zal in een afzonderlijk document nog verder worden geconcretiseerd.
+
 
 #### Use cases gebruikers
 Het is belangrijk om in een vroegtijdig stadium te toetsen in hoeverre de inhoud van een samenhangende objectenregistratie voldoet aan de concrete behoeften die er bestaan bij de verschillende soorten gebruikers. Eén van de onderdelen van het vervolgtraject is dan ook het aan de hand van specifieke gebruikerssituaties (use-cases) bepalen of de voorgestelde objecttypen en eigenschappen voldoende aansluiten op hetgeen de gebruikers toepassen in hun eigen informatievoorziening. De samenhangende objectenregistratie is daarbij uiteraard niet de enige gegevensbron die wordt gebruikt. In de use cases zal dan ook worden betrokken hoe een samenhangende objectenregistratie zou functioneren in samenhang met andere gegevensverzamelingen.
 Voor het bepalen van de aansluiting op de gebruikersbehoeften zal onder meer gebruik gemaakt worden van:
 •	beschikbare informatiebehoeften voor specifieke gebruikerstoepassingen die in andere trajecten zijn bepaald (zoals Haal Centraal);
-•	resultaten van trajecten gericht  op het onderdeel “gebruik” binnen de doorontwikkeling in samenhang van de geo-basisregistraties (zoals de door Geonovum ontwikkelde demonstrators);
-•	het vanuit enkele belangrijke gebruikersgroepen organiseren van specifieke bijeenkomsten waarin enkele use-cases worden doorgenomen.
+•	resultaten van trajecten gericht  op het onderdeel “gebruik” binnen de doorontwikkeling in samenhang van de geo-basisregistraties (zoals de door Geonovum ontwikkelde demonstrators en activiteiten in het kader van de werkgroep architectuur);
+•	het vanuit enkele belangrijke gebruikersgroepen laten beschrijven van enkele belangrijke use-cases.
 
 
 

@@ -14,9 +14,13 @@ De mapping op de bestaande basisregistraties van de fysieke objecttypen, die van
 |	                 |BGT	         |ondersteunend wegdeel|
 |waterobject	     |BGT	         |waterdeel|
 |onbepaald terreindeel	|BGT	     |onbegroeid terreindeel; erf|
-|bebouwing 	         |BGT	         |pand|
+|gebouwblok          | BRT           |gebouw|
+|gebouw 	         |BGT	         |pand|
 | 	                 |BGT	         |overig bouwwerk|
-| 	                 |BRT	         |gebouw|
+|       	         |BAG	         |pand|
+|bouwlaag 	         |WOZ	         |-|
+|installatie/voorziening |BGT	     |gebouwinstallatie|
+|toegangsdeur        |-	             |-|
 |overbruggingsdeel	 |BGT	         |overbruggingsdeel|
 |tunneldeel	         |BGT	         |tunneldeel|
 |kunstwerkdeel	     |BGT	         |kunstwerkdeel|
@@ -24,7 +28,7 @@ De mapping op de bestaande basisregistraties van de fysieke objecttypen, die van
 |scheiding	         |BGT	         |scheiding|
 
 -	**Verhardingsobject**
-In het SOR ‘verhardingsobject’ komen de BGT|IMGeo objecttypen ‘Wegdeel’, ‘Onbegroeid terreindeel’ en ‘Ondersteunend wegdeel’ samen.  Dit betreft dan alleen het deel met de fysieke voorkomens verharding van deze objecttypen (zoals asfalt of gebakken klinkers). De functie typeringen van de BGT|IMGeo Wegdelen (zoals rijbaan lokale weg of  fietspad) en van de BGT|IMGeo Ondersteunende wegdelen (zoals verkeerseiland en berm) komen terug als functionele objecttypen in de SOR.
+In het SOR ‘verhardingsobject’ komen de BGT|IMGeo objecttypen ‘Wegdeel’, ‘Onbegroeid terreindeel’ en ‘Ondersteunend wegdeel’ samen.  Dit betreft dan alleen het deel met de fysieke voorkomens verharding van deze objecttypen (zoals asfalt of gebakken klinkers). De functie typeringen van de BGT|IMGeo Wegdelen (zoals rijbaan lokale weg of fietspad) en van de BGT|IMGeo Ondersteunende wegdelen (zoals verkeerseiland en berm) komen terug als functionele objecttypen in de SOR.
 
 -	**Groenobject**
 In het SOR ‘groenobject’ komen het BGT|IMGeo objecttype ‘Begroeid terreindeel’ en ‘Ondersteunend wegdeel’ samen. De typering van het object ‘Begroeid terreindeel’ in de BGT|IMGeo bestaat uit fysieke voorkomens (zoals, loofbos, bouwland en groenvoorziening). Voor het ‘Ondersteunend wegdeel’ in de BGT|IMGeo is dit alleen het fysieke voorkomen groenvoorziening.
@@ -35,8 +39,8 @@ Het SOR objecttype ‘onbepaald terreindeel’ is het ‘erf’ uit BGT|IMGeo.  
 -	**Waterobject**
 Het SOR ‘waterobject’ is het BGT|IMGeo objecttype ‘waterdeel’. De typering van dit objecttype in BGT|IMGeo geeft bijvoorbeeld aan of het een watervlakte of waterloop betreft. Typering ‘haven’ is typisch functioneel en komt dan ook terug bij de functionele objecttypen.
 
--	**Bebouwing (n.t.b.)**
-In de SOR zal worden gewerkt met een vernieuwd gebouwmodel . Dit vernieuwde gebouwmodel zal op een later moment in het conceptueel model van de SOR worden ingepast. Vooralsnog wordt ervan uitgegaan dat deze inpassing uitsluitend raakt aan het BGT|IMGeo objecttype ‘pand’ en ‘overig bouwwerk’ en aan het objecttype ‘gebouw’ uit de BRT. 
+-	**Gebouwblok, Gebouw, Bouwlaag, installatie/voorziening en toegangsdeur**
+In de SOR zal worden gewerkt met een vernieuwd gebouwmodel. Op basis van de eerste beschrijving van dit vernieuwde gebouwmodel raakt dit aan de BGT|IMGeo objecttypen ‘pand’, ‘overig bouwwerk’ en ‘gebouwinstallatie’, aan het BAG objecttype ‘pand’ en aan het objecttype ‘gebouw’ uit de BRT. Ook raakt het aan enkele WOZ-deelobjecten uit de WOZ-administratie.
 
 -	**Overbruggingsdeel** 
 Het SOR ‘overbruggingsdeel’ is het BGT|IMGeo objecttype ‘overbruggingsdeel’. De typering van dit objecttype in BGT|IMGeo geeft bijvoorbeeld aan om welk type overbruggingsdeel het gaat en bij welk type overbrugging het deel hoort.
@@ -51,7 +55,7 @@ Het SOR ‘kunstwerkdeel’ bestaat uit het BGT|IMGeo objecttype ‘kunstwerkdee
 Het SOR-objecttype ‘scheiding’ bestaat uit het BGT|IMGeo objecttype ‘(overige-)scheiding’.
 
 -	**Constructie**
-Het SOR-objectype ‘constructie’ bestaat uit de verschillende bouwwerken uit BGT|IMGeo die geen plaats hebben gekregen bij het SOR-objecttype bebouwing. 
+Het SOR-objectype ‘constructie’ bestaat uit de verschillende bouwwerken uit BGT|IMGeo die geen plaats hebben gekregen bij het SOR-objecttype gebouw. 
 
 ## Functionele Objecttypen 
 De mapping op de bestaande basisregistraties van de functionele objecttypen levert het volgende eerste resultaat op:
@@ -59,16 +63,17 @@ De mapping op de bestaande basisregistraties van de functionele objecttypen leve
 |SOR-objecttype      |huidige BR     |object             |
 |--------------------|---------------|--------------|
 |verblijfsobject	 |BAG 	         |verblijfsobject       |
+|gebouwzone	         |WOZ	         |WOZ-deelobject (deels)|
 |functioneel gebied	 |BGT	         |functioneel gebied|
 | 	                 |BGT	         |ondersteunend wegdeel|
 | 	                 |BGT	         |ondersteunend waterdeel|
 |weg verbinding	     |NWB	         |verbinding|
-|spoor verbinding	 |BGT	         |wegdeel;spoor|
+|spoor verbinding	 |BGT	         |wegdeel; spoor|
 |waterweg verbinding |               ||	 	 
 |knooppunt	         |NWB	         |node|
 
--	**Verblijfsobject**
-Als onderdeel van een vernieuwd gebouwmodel is er met hoge waarschijnlijk sprake van een SOR ‘verblijfsobject’. Deze is vergelijkbaar met het IMBAG objecttype ‘verblijfsobject’. In het verplichte en gestandaardiseerde deel van de SOR worden de verblijfsobjecten in de vorm van puntgeometrie vastgelegd. In het vrijwillige maar wel gestandaardiseerde deel van de SOR kunnen de verblijfsobjecten in de vorm van vlakgeometrie of een volume vrijwillig worden vastgelegd.
+-	**Verblijfsobject en gebouwzone**
+Als onderdeel van een vernieuwd gebouwmodel is er met hoge waarschijnlijk sprake van een SOR ‘verblijfsobject’. Deze is vergelijkbaar met het IMBAG objecttype ‘verblijfsobject’. In het verplichte en gestandaardiseerde deel van de SOR worden de verblijfsobjecten in de vorm van puntgeometrie vastgelegd. In het vrijwillige maar wel gestandaardiseerde deel van de SOR kunnen de verblijfsobjecten in de vorm van vlakgeometrie of een volume vrijwillig worden vastgelegd. De gebouwzone behoeft nog nadere detaillering, maar kent raakvlakken met een gedeelte van de bestaande WOZ-deelobjecten uit de WOZ-administratie.
 
 -	**Functioneel gebied** 
 Het SOR objecttyope ‘functioneel gebied’ bestaat uit de BGT|IMGeo objecttypen ‘Functioneel gebied’, ‘Ondersteunend wegdeel’ en ‘Ondersteunend waterdeel’. Dit betreft uitsluitend het gedeelte met de functie typeringen van deze objecttypen in BGT|IMGeo (zoals recreatie:park, berm en oever/slootkant), eventueel aangevuld met nieuwe typeringen. Daarnaast is ook de typering haven, van het objecttype ‘waterdeel’ uit de BGT|IMGeo een functioneel gebied in de SOR. Bij functionele gebieden bestaat er ook een duidelijke relatie met tal van functionele objecttypen in de BRT. Deze relatie zal in het vervolg verder worden uitgewerkt.
@@ -90,7 +95,7 @@ De mapping op de bestaande basisregistraties van de registratieve objecttypen le
 |Buurt	 	         |||
 |landsgrens	         |BRK	|landsgrens|
 |provinciegrens	     |BRK	|provinciegrens|
-|waterschapsgrens	 |?	|waterschapsgrens|
+|waterschapsgrens	 |	||
 |gemeentegrens	     |BRK	|gemeentegrens|
 
 
