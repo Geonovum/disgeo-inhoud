@@ -265,6 +265,7 @@ table th:nth-of-type(3) {
     width: 30%;
 }
 </style>
+
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (grijs)|	Functie:	 ||
@@ -283,6 +284,7 @@ table th:nth-of-type(3) {
 ||| 	 	Bushalte|
 ||| 	 	Benzinestation|
 ||| 	 	Verzorgingsplaats|  
+
 **.** 
 <style>
 table th:first-of-type {
@@ -295,6 +297,7 @@ table th:nth-of-type(3) {
     width: 30%;
 }
 </style>
+
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (groen)|	Functie:	 ||
@@ -319,6 +322,7 @@ table th:nth-of-type(3) {
     width: 30%;
 }
 </style>    
+
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (blauw)|	Functie:	 ||
@@ -343,6 +347,7 @@ table th:nth-of-type(3) {
     width: 30%;
 }
 </style>    
+
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied |	Type:	 ||	 
