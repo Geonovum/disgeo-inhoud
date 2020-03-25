@@ -208,7 +208,7 @@ table th:first-of-type {
 table th:nth-of-type(2) {
     width: 30%;
 }
-table th:nth-of-type(2) {
+table th:nth-of-type(3) {
     width: 30%;
 }
 </style>
@@ -261,7 +261,7 @@ table th:first-of-type {
 table th:nth-of-type(2) {
     width: 30%;
 }
-table th:nth-of-type(2) {
+table th:nth-of-type(3) {
     width: 30%;
 }
 </style>
@@ -291,7 +291,7 @@ table th:first-of-type {
 table th:nth-of-type(2) {
     width: 30%;
 }
-table th:nth-of-type(2) {
+table th:nth-of-type(3) {
     width: 30%;
 }
 </style>
@@ -315,7 +315,7 @@ table th:first-of-type {
 table th:nth-of-type(2) {
     width: 30%;
 }
-table th:nth-of-type(2) {
+table th:nth-of-type(3) {
     width: 30%;
 }
 </style>    
@@ -339,7 +339,7 @@ table th:first-of-type {
 table th:nth-of-type(2) {
     width: 30%;
 }
-table th:nth-of-type(2) {
+table th:nth-of-type(3) {
     width: 30%;
 }
 </style>    
