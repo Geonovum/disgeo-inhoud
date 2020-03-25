@@ -8,7 +8,20 @@ In dit hoofdstuk wordt nader ingegaan op de eerste beelden die er bestaan bij de
 
 ### Inhoudelijke uitwerkingspunten
 Bij het opstellen van het denkraam is geconstateerd dat er minimaal een verdere uitwerking zal moeten plaatsvinden van een aantal onderwerpen. Deze onderwerpen zijn hieronder geordend naar enerzijds het eerder in dit document gemaakte onderscheid naar een drietal hoofdgroepen van objecttypen (fysieke objecttypen, functionele objecttypen en registratieve objecttypen) en anderzijds naar een onderscheid in uitwerkpunten die betrekking hebben op kaders, objecttypen en eigenschappen. Dat levert op basis van de huidige inzichten het volgende eerste overzicht van inhoudelijke uitwerkingspunten op:
-
+<style>
+table th:first-of-type {
+    width: 19%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+</style>
 |	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
 |---------------|-----------------------------|--------------------------------|-------------|
 |**Algemeen**	|Plaats aggregatie en uiteenrafelen in het model	|Uitwerking kader levensfasen objecten	    |Uitwerking identificatiecode objecten|
@@ -51,7 +64,20 @@ De coördinatie van het inhoudelijk spoor zal formeel plaatsvinden vanuit de wer
 
 ####inhoudelijke kaders
 In het bovenstaande overzicht zijn een aantal algemene onderwerpen en inhoudelijke kaders benoemd die om een nadere uitwerking vragen. Deze voorbereiding van deze uitwerking zal plaatsvinden door enkele deelnemers van de werkgroep inhoud, waarbij naar gelang het onderwerp eventueel ook andere deskundigen worden aangehaakt. In alle gevallen zullen de resultaten in de werkgroep inhoud worden besproken. Het gaat in ieder geval om de volgende onderwerpen:
-
+<style>
+table th:first-of-type {
+    width: 19%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+</style>
 |	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
 |---------------|-----------------------------|--------------------------------|-------------|
 |**Algemeen**	|Plaats aggregatie en uiteenrafelen in het model	|Uitwerking kader levensfasen objecten	    |Uitwerking identificatiecode objecten|
@@ -97,7 +123,20 @@ nadere uitwerking van de wijze waarop binnen de samenhangende objectenregistrati
 #### Inhoudelijke specials
 Bij het opstellen van deze eerste beschrijving van de inhoud van de objectenregistratie zijn ook tal van specifieke uitwerkpunten benoemd, die noodzakelijk zijn om te komen tot een gedetailleerd conceptueel informatiemodel. Deze uitwerking zal plaatsvinden door of met experts vanuit verschillende domeinen en organisaties. Hierbij wordt van enkele uitwerkingspunten verwacht dat deze een dusdanige complexiteit kennen, dat het wenselijk is hiervoor een tijdelijke detailwerkgroep in te stellen, die in opdracht van de werkgroep inhoud bepaalde inhoudelijke onderwerpen verder uitwerkt. Van andere onderwerpen wordt verwacht dat deze (na een goede voorbereiding in kleiner verband) in voldoende mate kunnen worden uitgewerkt binnen bijvoorbeeld een eenmalige werksessie met de meest betrokken experts. Het gaat daarbij op dit moment dus om de volgende onderwerpen:
 
-
+<style>
+table th:first-of-type {
+    width: 19%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+table th:nth-of-type(2) {
+    width: 27%;
+}
+</style>
 |	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
 |---------------|-----------------------------|--------------------------------|-------------|
 |**Algemeen**	|                             |	                               |             |
