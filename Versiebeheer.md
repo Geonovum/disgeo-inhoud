@@ -24,5 +24,5 @@ Dit document is aan verandering onderhevig. Het versiebeheer van het document ge
 
 | **Versie** | **Datum**      | **Status** | **Bewerking**                   | **Toelichting**                   |
 |------------|----------------|------------|---------------------------------|-----------------------------------| 
-| 0.9       | 24-03-2020     | concept    | Initieel document               | Kapstok document  aangemaakt  |
+| 0.92      | 31-03-2020     | concept    | Initieel document               | Kapstok document  aangemaakt  |
                            

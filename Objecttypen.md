@@ -130,17 +130,17 @@ De typering behorende bij kunstwerkdeel is overgenomen uit de huidige BGT|IMGeo 
 |strekdam	 ||
 |Steiger	 ||
 |Stuw	 ||
-|Niet BGT	|keermuur|
-|Niet BGT	|overkluizing|
-|Niet BGT	|duiker|
-|Niet BGT	|faunavoorziening|
-|Niet BGT	|vispassage|
-|Niet BGT	|bodemval|
-|Niet BGT	|coupure|
-|Niet BGT	|ponton|
-|Niet BGT	|voorde|
-|Niet BGT	|hellingbaan|
-|Niet BGT	|vlonder|
+|*Niet BGT*	|keermuur|
+|*Niet BGT*	|overkluizing|
+|*Niet BGT*	|duiker|
+|*Niet BGT*	|faunavoorziening|
+|*Niet BGT*	|vispassage|
+|*Niet BGT*	|bodemval|
+|*Niet BGT*	|coupure|
+|*Niet BGT*	|ponton|
+|*Niet BGT*	|voorde|
+|*Niet BGT*	|hellingbaan|
+|*Niet BGT*	|vlonder|
 
 **Tunneldeel**
 De typering behorende bij tunneldeel is overgenomen uit de huidige BGT|IMGeo 2.1.1. In het voorstel voor IMGeo 2.2 zijn voor het tunneldeel geen aanvullingen opgenomen.
@@ -178,8 +178,8 @@ De typering behorende bij Constructie is overgenomen uit de huidige BGT|IMGeo 2.
 |bezinkbak	 ||
 |lage trafo	 ||
 |Bassin	 ||
-|Niet BGT	|sleufsilo|
-|Niet BGT	|infiltratiereservoir|
+|*Niet BGT*	|sleufsilo|
+|*Niet BGT*	|infiltratiereservoir|
 
 **Scheiding**
 De typering behorende bij scheiding is overgenomen uit de huidige BGT|IMGeo 2.1.1. In het voorstel voor IMGeo 2.2 zijn voor scheiding geen aanvullingen opgenomen.
@@ -193,8 +193,8 @@ De typering behorende bij scheiding is overgenomen uit de huidige BGT|IMGeo 2.1.
 |geluidsscherm	 |
 |walbescherming	 |
 |Hek	 |
-|Niet BGT	|draadraster|
-|Niet BGT	|faunaraster|
+|*Niet BGT*	|draadraster|
+|*Niet BGT*	|faunaraster|
 
 ## Typering functionele objecttypen in objectenregistratie
 
@@ -237,7 +237,7 @@ table th:nth-of-type(3) {
 |Spoorverbindingen	|Functie:	 ||
 || 	trein	 ||
 || 	tram	 ||
-||| 	 	(laad/los-)kraan|
+||*Niet BGT*| 	 	(laad/los-)kraan|
 |||| 	 	 
 |Waterwegverbindingen	|Functie:	 ||
 || 	vaaweg	 ||
@@ -273,17 +273,17 @@ table th:nth-of-type(3) {
 ||| 	 	Verkeersdruppel|
 || 	berm	 ||
 || 	parkeervlak	|Carpoolplaats|
-||| 	 	Halteplaats
-|||	 	verkeersaansluiting
-||| 	 	verkeersknooppunt|
-||| 	 	Verkeerskruispunt|
-||| 	 	Verkeerszone|
-||| 	 	Voetgangersgebied|
-||| 	 	Woonerf|
-||| 	 	infrastructuur verkeer en vervoer|
-||| 	 	Bushalte|
-||| 	 	Benzinestation|
-||| 	 	Verzorgingsplaats|  
+||*Niet BGT*| 	 	Halteplaats
+||*Niet BGT*|	 	verkeersaansluiting
+||*Niet BGT*| 	 	verkeersknooppunt|
+||*Niet BGT*| 	 	Verkeerskruispunt|
+||*Niet BGT*| 	 	Verkeerszone|
+||*Niet BGT*| 	 	Voetgangersgebied|
+||*Niet BGT*| 	 	Woonerf|
+||*Niet BGT*| 	 	infrastructuur verkeer en vervoer|
+||*Niet BGT*| 	 	Bushalte|
+||*Niet BGT*| 	 	Benzinestation|
+||*Niet BGT*| 	 	Verzorgingsplaats|  
 
 **.** 
 <style>
@@ -302,13 +302,13 @@ table th:nth-of-type(3) {
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (groen)|	Functie:	 ||
 ||	oever/slootkant	 ||
-||| 	 	Landbouw|
-||| 	 	recreatie: speeltuin|
-||| 	 	recreatie: park|
-||| 	 	recreatie: sportterrein|
-||| 	 	recreatie: camping|
-||| 	 	recreatie: bungalowpark|
-||| 	 	recreatie: volkstuin|  
+||*Niet BGT*| 	 	Landbouw|
+||*Niet BGT*| 	 	recreatie: speeltuin|
+||*Niet BGT*| 	 	recreatie: park|
+||*Niet BGT*| 	 	recreatie: sportterrein|
+||*Niet BGT*| 	 	recreatie: camping|
+||*Niet BGT*| 	 	recreatie: bungalowpark|
+||*Niet BGT*| 	 	recreatie: volkstuin|  
   
 **.**     
 <style>
@@ -328,12 +328,12 @@ table th:nth-of-type(3) {
 |Functioneel Gebied (blauw)|	Functie:	 ||
 ||kering	 ||
 || 	haven	 ||
-||| 	 	opstelpunt open water|
-||| 	 	Sluiscomplex|
-||| 	 	Zuiveringscomplex|
-||| 	 	Waterwingebied|
-|||	 	    waterbergingsgebied|
-|||	 	    infrastructuur waterstaatswerken|  
+||*Niet BGT*| 	 	opstelpunt open water|
+||*Niet BGT*| 	 	Sluiscomplex|
+||*Niet BGT*| 	 	Zuiveringscomplex|
+||*Niet BGT*| 	 	Waterwingebied|
+||*Niet BGT*|	 	    waterbergingsgebied|
+||*Niet BGT*|	 	    infrastructuur waterstaatswerken|  
   
 **.**     
 <style>
@@ -351,16 +351,16 @@ table th:nth-of-type(3) {
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied |	Type:	 ||	 
-|| 	Niet BGT	|Stiltegebied|
-|| 	Niet BGT	|Zonnepanelenveld|
-|| 	Niet BGT	|Bedrijvigheid|
-||	Niet BGT	|natuur en landschap|
-|| 	Niet BGT	|Bewoning|
-|| 	Niet BGT	|maatschappelijke en/of publieksvoorziening|
-|| 	Niet BGT	|Recreatie|
-|| 	Niet BGT	|Begraafplaats|
-|| 	Niet BGT	|functioneel beheer|
-|| 	Niet BGT	|functioneel beheer: hondenuitlaatplaats|  
+|| 	*Niet BGT*	|Stiltegebied|
+|| 	*Niet BGT*	|Zonnepanelenveld|
+|| 	*Niet BGT*	|Bedrijvigheid|
+||	*Niet BGT*	|natuur en landschap|
+|| 	*Niet BGT*	|Bewoning|
+|| 	*Niet BGT*	|maatschappelijke en/of publieksvoorziening|
+|| 	*Niet BGT*	|Recreatie|
+|| 	*Niet BGT*	|Begraafplaats|
+|| 	*Niet BGT*	|functioneel beheer|
+|| 	*Niet BGT*	|functioneel beheer: hondenuitlaatplaats|  
   
   
 **Bebouwing**

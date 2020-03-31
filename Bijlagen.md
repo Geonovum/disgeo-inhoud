@@ -32,7 +32,7 @@ In de SOR worden functionele en fysieke objecten altijd als aparte objecttypen g
 
 
 
-### Bijlage 3 aanbevelingen van interbestuurlijke werkgroepen
+### Bijlage 3 Aanbevelingen van interbestuurlijke werkgroepen
 
 Rapport werkgroep Wegen, versie 1.0, 3 september 2019 (https://www.geobasisregistraties.nl/basisregistraties/documenten/rapport/2019/11/07/verkenning-samenhangende-objectenregistratie-eindrapport-werkgroep-wegen)
 
