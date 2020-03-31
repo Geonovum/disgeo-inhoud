@@ -40,20 +40,8 @@ Fysiek begrensd en zichtbaar terreindeel dat bij een gebouw hoort, dat niet nade
 -	**Waterobject**
 Grondoppervlak permanent of periodiek bedekt met water. (herkomst definitie: Voorstel NEN3610)
 
--	**Gebouwblok**
-Grootste aaneengesloten samenstel van gebouwen die bouwkundig-constructief met elkaar verbonden zijn. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
-
 -	**Gebouw**
 Grootste, aaneengesloten, homogene, duurzaam met de aarde verbonden en omsloten bouwkundige eenheid binnen een Gebouwblok. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
-
--	**Bouwlaag**
-De verzameling Ruimten op hetzelfde niveau binnen een Gebouw. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
-
--	**Installatie / voorziening**
-Geheel van relevante installaties of andere voorzieningen in of aan en ten dienste van het Gebouw (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
-
--	**Toegangsdeur**
-Deur of andere voorziening die vanaf de openbare weg, een erf of een gedeelde verkeersruimte toegang geeft tot een Gebouw of Verblijfsobject. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
 -	**Constructie** 
 Overige bouwwerken niet zijnde een Gebouw. (eerste versie van definitie voor SOR)
@@ -69,6 +57,20 @@ Onderdeel van een beweegbare of vaste verbinding tussen twee punten, die door wa
 
 -	**Scheiding**
 Kunstmatig, meestal lineair obstakel met een werend karakter (herkomst definitie: gebaseerd op BGT 1.1.1)
+
+Naast deze opdelende objecttypen worden binnen het gebouwmodel overigens op dit moment ook nog de volgende objecttypen onderscheiden:
+
+-	**Gebouwblok**
+Grootste aaneengesloten samenstel van gebouwen die bouwkundig-constructief met elkaar verbonden zijn. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
+
+-	**Bouwlaag**
+De verzameling Ruimten op hetzelfde niveau binnen een Gebouw. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
+
+-	**Installatie / voorziening**
+Geheel van relevante installaties of andere voorzieningen in of aan en ten dienste van het Gebouw (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
+
+-	**Toegangsdeur**
+Deur of andere voorziening die vanaf de openbare weg, een erf of een gedeelde verkeersruimte toegang geeft tot een Gebouw of Verblijfsobject. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
 ### Functionele objecttypen
 
