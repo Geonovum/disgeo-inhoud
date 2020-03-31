@@ -27,47 +27,47 @@ Fysieke objecttypen zijn in de werkelijkheid voorkomende zichtbare en tastbare o
 
 Tot de opdelende fysieke objecttypen worden de volgende objecttypen (met de daarbij behorende voorlopige definities) gerekend: 
 
--	Verhardingsobject
+-	**Verhardingsobject**
 In één of meer lagen aangelegd materiaal, welke zijn gelegd over een ondergrond of onderliggende constructie, aangelegd om een oppervlakte geschikt te maken voor het beoogde gebruik, door te egaliseren, te verstevigen en/of te verruwen. 
 (herkomst definitie: Voorstel NEN3610)
 
--	Groenobject
+-	**Groenobject**
 Op basis van type begroeiing, beplanting, natuurlijk voorkomen of morfologische aspecten getypeerd stuk aardoppervlak (herkomst definitie: Voorstel NEN3610)
 
--	Onbepaald terreindeel 
+-	**Onbepaald terreindeel**
 Fysiek begrensd en zichtbaar terreindeel dat bij een gebouw hoort, dat niet nader wordt ingewonnen en dat bestaat uit een mengvorm van begroeiing, verharding, en/of water. (eerste versie van definitie voor SOR gebaseerd op definitie erf uit BGT)
 
--	Waterobject
+-	**Waterobject**
 Grondoppervlak permanent of periodiek bedekt met water. (herkomst definitie: Voorstel NEN3610)
 
--	Gebouwblok
+-	**Gebouwblok**
 Grootste aaneengesloten samenstel van gebouwen die bouwkundig-constructief met elkaar verbonden zijn. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
--	Gebouw
+-	**Gebouw**
 Grootste, aaneengesloten, homogene, duurzaam met de aarde verbonden en omsloten bouwkundige eenheid binnen een Gebouwblok. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
--	Bouwlaag
+-	**Bouwlaag**
 De verzameling Ruimten op hetzelfde niveau binnen een Gebouw. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
--	Installatie / voorziening
+-	**Installatie / voorziening**
 Geheel van relevante installaties of andere voorzieningen in of aan en ten dienste van het Gebouw (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
--	Toegangsdeur
+-	**Toegangsdeur**
 Deur of andere voorziening die vanaf de openbare weg, een erf of een gedeelde verkeersruimte toegang geeft tot een Gebouw of Verblijfsobject. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
--	Constructie 
+-	**Constructie** 
 Overige bouwwerken niet zijnde een Gebouw. (eerste versie van definitie voor SOR)
 
--	Kunstwerkdeel
+-	**Kunstwerkdeel**
 Onderdeel van een civieltechnisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen. (herkomst definitie: BGT 1.1.1)
 
--	Tunneldeel
+-	**Tunneldeel**
 Onderdeel van een kunstmatig aangelegde, kokervormige onderdoorgang dat essentieel is voor de constructie. (herkomst definitie: BGT 1.1.1)
 
--	Overbruggingsdeel 
+-	**Overbruggingsdeel** 
 Onderdeel van een beweegbare of vaste verbinding tussen twee punten, die door water, een weg of anderszins gescheiden zijn, dat essentieel is voor de constructie. (herkomst definitie: BGT 1.1.1)
 
--	Scheiding
+-	**Scheiding**
 Kunstmatig, meestal lineair obstakel met een werend karakter (herkomst definitie: gebaseerd op BGT 1.1.1)
 
 ### Functionele objecttypen
@@ -77,16 +77,16 @@ Functionele objecttypen zijn objecttypen waarvan de begrenzing altijd wordt bepa
 Deze functionele gebieden (vlak) zijn niet landsdekkend. Dit betekent dat ongeacht het niveau, maaiveld of onder/boven maaiveld, functionele objecten het grondgebied van Nederland niet voor 100% bedekken. Objecten mogen elkaar dus overlappen en er mogen gaten voorkomen. In de SOR worden uitsluitend functionele objectentypen opgenomen die van belang zijn voor meerdere gebruikers in verschillende overheidsdomeinen.
 
 Functionele objecttypen in de objectenregistratie zijn:
--	Functioneel gebied
+-	**Functioneel gebied**
 Door functie of gebruik begrensd gebied. (herkomst definitie: Voorstel NEN3610)
 
--	Netwerken voor wegen, water en spoor
+-	**Netwerken voor wegen, water en spoor**
 Een samenhangend stelsel van aan elkaar gesloten wegen, spoorwegen, water- en vaarwegen waardoor vlotte verplaatsing tussen twee locaties mogelijk is. Waar van toepassing middels de beoogde modaliteit. Dit is opgebouwd uit verbindingen en knooppunten. (herkomst definitie: Voorstel NEN3610)
 
--	Verblijfsobjecten
+-	**Verblijfsobjecten**
 De kleinste binnen een of meer panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen afsluitbare toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte, onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
--	Gebouwzone
+-	**Gebouwzone**
 Het grootst mogelijke gedeelte van een bouwwerk dat in zijn geheel is gelegen op een bouwlaag en binnen de afbakening van een gebouw en een verblijfsobject, waaraan eenduidig een bouwjaar kan worden toegekend, en dat qua constructie en gebruiksmogelijkheden voldoende uniform is. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)
 
 
@@ -96,40 +96,40 @@ Registratieve objecttypen zijn objecttypen waarvan de afbakening en benoeming pl
 Geometrische vastlegging van registratieve objecttypen vindt plaats in de vorm van een lijn of een vlak.
 Registratieve objecttypen in de objectenregistratie zijn:
 
--	Woonplaats
+-	**Woonplaats**
 Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorzien gedeelte van het grondgebied van de gemeente. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
--	Openbare ruimte
+-	**Openbare ruimte**
 Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorziene buitenruimte die binnen één woonplaats is gelegen. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
--	Nummeraanduiding
+-	**Nummeraanduiding**
 Een door het bevoegde gemeentelijke orgaan als zodanig toegekende aanduiding van een verblijfsobject, een standplaats of een ligplaats. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
--	Ligplaats
-Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen plaats in het water al dan niet aangevuld met een op de oever aanwezig terrein of een gedeelte daarvan, die bestemd is voor het permanent afmeren van een voor woon-, bedrijfsmatige of recreatieve doeleinden geschikt drijvend object. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
+-	**Ligplaats**
+Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen plaats in het water al dan niet aangevuld met een op de oever aanwezig terrein of een gedeelte daarvan, die bestemd is voor het permanent afmeren van een voor woon-, bedrijfsmatige of recreatieve doeleinden geschikt drijvend object. (*herkomst* definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
--	Standplaats
+-	**Standplaats**
 Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen terrein of gedeelte daarvan dat bestemd is voor het permanent plaatsen van een niet direct en niet duurzaam met de aarde verbonden en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte ruimte. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
--	Wijk
+-	**Wijk**
 Een door het bevoegde gemeentelijke orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat geldt als eenheid van politiek/bestuurlijke verantwoordelijkheid of voor bedrijfsvoering en een cluster is van buurten (eerste versie van definitie voor SOR)
 
--	Buurt
+-	**Buurt**
 Een door het bevoegde gemeentelijke orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat als kleinste eenheid geldt van politiek/bestuurlijke verantwoordelijkheid of voor bedrijfsvoering. (eerste versie van definitie voor SOR)
 
--	Rijk
+-	**Rijk**
 Het Europese grondgebied van het Koninkrijk der Nederlanden inclusief de daarbij behorende territoriale wateren (eerste versie van definitie voor SOR)
 
--	Provincie
+-	**Provincie**
 Een door het parlement als provincie in een wet benoemd gedeelte van het Nederlands grondgebied (eerste versie van definitie voor SOR) 
 
--	Gemeente
+-	**Gemeente**
 Een door het parlement als gemeente in een wet benoemd gedeelte van het Nederlands grondgebied (eerste versie van definitie voor SOR)
  
--	Waterschap
+-	**Waterschap**
 Een door het bevoegde provinciale orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat als eenheid geldt van politiek/bestuurlijke verantwoordelijkheid voor beheer van het water en de waterstaatszorg. (eerste versie van definitie voor SOR)
 
-Ook de bebouwde kom zal in de samenhangende objectenregistratie op worden genomen. De verdere uitwerking van dit begrip moet echter nog plaatsvinden.
+Ook de **bebouwde kom** zal in de samenhangende objectenregistratie op worden genomen. De verdere uitwerking van dit begrip moet echter nog plaatsvinden.
 
 ## Hoofdinvulling samenhangende objectenregistratie
 
