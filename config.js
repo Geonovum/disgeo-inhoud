@@ -39,9 +39,9 @@ function custGHPG(respecConfig)
 var respecConfig = 
 {
   //-- specStatus is verplicht! (activeer 1 van de volgende) --------------------------
-  specStatus: "GN-BASIS",             // Basis Document
+  //specStatus: "GN-BASIS",             // Basis Document
   //specStatus: "GN-WV",              // Werk Versie
-  //specStatus: "GN-CV",              // Consultatie Versie
+  specStatus: "GN-CV",              // Consultatie Versie
   //specStatus: "GN-VV",              // Vaststellings Versie
   //specStatus: "GN-DEF",             // Definitieve Versie
   //-- specType is verplicht bij alle andere dan BASIS ---------------------------------
@@ -52,17 +52,18 @@ var respecConfig =
   //specType: "HR",                   // HandReiking
   //specType: "WA",                   // Werkafspraak
   //specType: "BD",                   // Beheer Documentatie
+  specType: "AL",                   // Op zichzelf staand document
   //-- format is verplicht! -----------------------------------------------------------
   format: "markdown",                 // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2020-04-07",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/Rapport",
+  github: "https://github.com/geonovum/disgeo-inhoud",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/Rapport/issues",
+  issueBase: "https://github.com/geonovum/disgeo-inhoud/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum/Rapport",
+  edDraftURI: "https://geonovum.github.io/disgeo-inhoud",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
@@ -89,9 +90,10 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "et",  	              // Wordt gebruikt in de document URL
+  shortName: "hiso",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "et", 	              // Energie transitie
+  pubDomain: "disgeo", 	            // Doorontwikkeling in Samenhang
+  //pubDomain: "et",                // Energie transitie
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
   //pubDomain: "bro", 	            // Basisregistratie Ondergrond
