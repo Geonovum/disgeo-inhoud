@@ -201,17 +201,6 @@ De typering behorende bij scheiding is overgenomen uit de huidige BGT|IMGeo 2.1.
 **Netwerken**
 Voor de functionele typering van netwerken is aangesloten bij de beschikbare typeringen in de BGT|IMGeo voor wegen en spoor. Verdere afstemming is nodig met NWB, IMBOR/IMWV, Prorail en de watersector. Voor wegverbindingen zijn de voorstellen voor IMGeo 2.2 overgenomen. Voor spoorverbindingen is de typering vereenvoudigd. Hhet uitgangspunt dat objecttypen scherp zijn afgebakend, maakt dat de typering sneltram is vervallen en dat havenkraan vervangen is door (laad-/los)kraan.
 
-<style>
-table th:first-of-type {
-    width:200px;
-}
-table th:nth-of-type(2) {
-    width:150px;
-}
-table th:nth-of-type(3) {
-    width:150px;
-}
-</style>
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Wegverbindingen|	Functie:	 ||
@@ -253,19 +242,6 @@ table th:nth-of-type(3) {
 **Functionele gebieden**
 De functionele gebieden zijn voor het overzicht opgedeeld in grijze, groene en blauwe gebieden met een objecttypering. Deze indeling is functioneel ingestoken en heeft geen relatie met het fysieke voorkomen in het terrein. Hierbij is aangesloten op de typering zoals voor BGT|IMGeo wordt gebruikt, inclusief de voostellen voor IMGeo 2.2. Als gevolg van het uitgangspunt dat fysiek en functie worden gescheiden zijn een aantal functies verschoven van voorheen een typering bij een fysiek object naar een eigenstandig functioneel object.  
 
-
-<style>
-table th:first-of-type {
-    width: 40%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-table th:nth-of-type(3) {
-    width: 30%;
-}
-</style>
-
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
 |Functioneel Gebied (grijs)|	Functie:	 ||
@@ -286,17 +262,6 @@ table th:nth-of-type(3) {
 ||*Niet BGT*| 	 	Verzorgingsplaats|  
 
 **.** 
-<style>
-table th:first-of-type {
-    width: 40%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-table th:nth-of-type(3) {
-    width: 30%;
-}
-</style>
 
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
@@ -311,17 +276,6 @@ table th:nth-of-type(3) {
 ||*Niet BGT*| 	 	recreatie: volkstuin|  
   
 **.**     
-<style>
-table th:first-of-type {
-    width: 40%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-table th:nth-of-type(3) {
-    width: 30%;
-}
-</style>    
 
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
@@ -336,17 +290,6 @@ table th:nth-of-type(3) {
 ||*Niet BGT*|	 	    infrastructuur waterstaatswerken|  
   
 **.**     
-<style>
-table th:first-of-type {
-    width: 40%;
-}
-table th:nth-of-type(2) {
-    width: 30%;
-}
-table th:nth-of-type(3) {
-    width: 30%;
-}
-</style>    
 
 |Objecttype |classificatie (verplicht)	| Plus classificatie (vrijwillig)|
 |-----------|---------------------------|--------------------------------|
