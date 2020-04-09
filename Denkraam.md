@@ -23,7 +23,7 @@ Hieronder zijn eerste definities opgenomen van de verschillende in het kader van
 
 ### Fysieke objecttypen
 
-Fysieke objecttypen zijn in de werkelijkheid voorkomende zichtbare en tastbare objecten. Daaronder verstaan we dus objecttypen zoals gebouwen, verharding, water, spoorlijnen en bomen. In het verplichte en gestandaardiseerde deel van de SOR is op maaiveldniveau het grondgebied van Nederland voor de actuele situatie voor 100% bedekt met vlakken die onderdeel uitmaken van een fysiek object. Dat fysiek object kan uitsluitend een object van één van de hieronder benoemde opdelende objecttypen zijn. Objecten mogen elkaar op maaiveldniveau niet overlappen en dienen naadloos op elkaar aan te sluiten. Er mogen op maaiveld niveau ook geen gaten tussen fysieke objecttypen voorkomen. Wanneer objecten boven of onder elkaar liggen, bijvoorbeeld bij een viaduct, liggen ze op verschillende niveaus en kunnen fysieke objecten elkaar wel overlappen. De geometrische vastlegging van fysieke objecttypen kan afhankelijk van het objecttype plaatsvinden in de vorm van een punt, een lijn, een vlak of een volume (3D-object).
+Fysieke objecttypen zijn in de werkelijkheid voorkomende zichtbare en tastbare objecten. Daaronder verstaan we dus objecttypen zoals gebouwen, verharding, water, spoorlijnen en bomen. In het verplichte en gestandaardiseerde deel van de SOR is op maaiveldniveau het grondgebied van Nederland voor de actuele situatie voor 100% bedekt met vlakken die onderdeel uitmaken van een fysiek object. Dat fysieke object kan uitsluitend een object van één van de hieronder benoemde opdelende objecttypen zijn. Objecten mogen elkaar op maaiveldniveau niet overlappen en dienen naadloos op elkaar aan te sluiten. Er mogen op maaiveld niveau ook geen gaten tussen fysieke objecttypen voorkomen. Wanneer objecten boven of onder elkaar liggen, bijvoorbeeld bij een viaduct, liggen ze op verschillende niveaus en kunnen fysieke objecten elkaar wel overlappen. De geometrische vastlegging van fysieke objecttypen kan afhankelijk van het objecttype plaatsvinden in de vorm van een punt, een lijn, een vlak of een volume (3D-object).
 
 Tot de opdelende fysieke objecttypen worden de volgende objecttypen (met de daarbij behorende voorlopige definities) gerekend: 
 
@@ -76,16 +76,17 @@ Deur of andere voorziening die vanaf de openbare weg, een erf of een gedeelde ve
 
 Functionele objecttypen zijn objecttypen waarvan de begrenzing altijd wordt bepaald door hetgeen partijen hierover gezamenlijk vastleggen zonder dat dit altijd direct te relateren is aan in het terrein zichtbare onderdelen. Daaronder verstaan we dus objecttypen als een park, een carpoolplaats en een waterbergingsgebied. Omdat functionele objecttypen sterk afhankelijk zijn van één of meerdere gebruikersgroepen, kunnen meerdere functionele objecttypen boven, onder of naast elkaar voorkomen op dezelfde locatie. Een speelplaats kan bijvoorbeeld bij noodweer ook dienen als waterbergingsgebied. Geometrische vastlegging van functionele objecttypen kan in de vorm van een punt, een lijn, een vlak of een volume (3D-object). Denk hierbij aan verblijfsobjecten (punt), netwerken (lijn) en functionele gebieden (vlak).
 
-Deze functionele gebieden (vlak) zijn niet landsdekkend. Dit betekent dat ongeacht het niveau, maaiveld of onder/boven maaiveld, functionele objecten het grondgebied van Nederland niet voor 100% bedekken. Objecten mogen elkaar dus overlappen en er mogen gaten voorkomen. In de SOR worden uitsluitend functionele objectentypen opgenomen die van belang zijn voor meerdere gebruikers in verschillende overheidsdomeinen.
+Deze functionele gebieden (vlak) zijn niet landsdekkend. Dit betekent dat ongeacht het niveau, maaiveld of onder/boven maaiveld, functionele objecten het grondgebied van Nederland niet voor 100% bedekken. Objecten mogen elkaar dus overlappen en er mogen gaten voorkomen. In de SOR worden uitsluitend functionele objecttypen opgenomen die van belang zijn voor meerdere gebruikers in verschillende overheidsdomeinen.
 
 Functionele objecttypen in de objectenregistratie zijn:
+
 -	**Functioneel gebied**
 Door functie of gebruik begrensd gebied. (herkomst definitie: Voorstel NEN3610)
 
--	**Netwerken voor wegen, water en spoor**
+-	**Netwerk voor wegen, water en spoor**
 Een samenhangend stelsel van aan elkaar gesloten wegen, spoorwegen, water- en vaarwegen waardoor vlotte verplaatsing tussen twee locaties mogelijk is. Waar van toepassing middels de beoogde modaliteit. Dit is opgebouwd uit verbindingen en knooppunten. (herkomst definitie: Voorstel NEN3610)
 
--	**Verblijfsobjecten**
+-	**Verblijfsobject**
 De kleinste binnen een of meer panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen afsluitbare toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte, onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)
 
 -	**Gebouwzone**

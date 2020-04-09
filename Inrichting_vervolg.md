@@ -49,8 +49,8 @@ De hierboven genoemde inhoudelijke uitwerkingspunten zullen op verschillende taf
 
 De coördinatie van het inhoudelijk spoor zal formeel plaatsvinden vanuit de werkgroep inhoud. In de praktijk zal dit betekenen dat een aantal deelnemers aan deze werkgroep zorgdragen voor de dagelijkse uitvoering van deze coördinatie.
 
-####inhoudelijke kaders
-In het bovenstaande overzicht zijn een aantal algemene onderwerpen en inhoudelijke kaders benoemd die om een nadere uitwerking vragen. Deze voorbereiding van deze uitwerking zal plaatsvinden door enkele deelnemers van de werkgroep inhoud, waarbij naar gelang het onderwerp eventueel ook andere deskundigen worden aangehaakt. In alle gevallen zullen de resultaten in de werkgroep inhoud worden besproken. Het gaat in ieder geval om de volgende onderwerpen:
+### inhoudelijke kaders
+In het bovenstaande overzicht zijn een aantal algemene onderwerpen en inhoudelijke kaders benoemd die om een nadere uitwerking vragen. De voorbereiding van deze uitwerking zal plaatsvinden door enkele deelnemers van de werkgroep inhoud, waarbij naar gelang het onderwerp eventueel ook andere deskundigen worden aangehaakt. In alle gevallen zullen de resultaten in de werkgroep inhoud worden besproken. Het gaat in ieder geval om de volgende onderwerpen:
 
 |	            |Kaders	                      |Objecttypen	                   |Eigenschappen|
 |---------------|-----------------------------|--------------------------------|-------------|
@@ -125,12 +125,19 @@ De organisatorische invulling van deze specifieke inhoudelijke uitwerkingen zal 
 
 #### Use cases gebruikers
 Het is belangrijk om in een vroegtijdig stadium te toetsen in hoeverre de inhoud van een samenhangende objectenregistratie voldoet aan de concrete behoeften die er bestaan bij de verschillende soorten gebruikers. Eén van de onderdelen van het vervolgtraject is dan ook het aan de hand van specifieke gebruikerssituaties (use-cases) bepalen of de voorgestelde objecttypen en eigenschappen voldoende aansluiten op hetgeen de gebruikers toepassen in hun eigen informatievoorziening. De samenhangende objectenregistratie is daarbij uiteraard niet de enige gegevensbron die wordt gebruikt. In de use cases zal dan ook worden betrokken hoe een samenhangende objectenregistratie zou functioneren in samenhang met andere gegevensverzamelingen.
+
 Voor het bepalen van de aansluiting op de gebruikersbehoeften zal onder meer gebruik gemaakt worden van:
 •	beschikbare informatiebehoeften voor specifieke gebruikerstoepassingen die in andere trajecten zijn bepaald (zoals Haal Centraal);
+
 •	resultaten van trajecten gericht  op het onderdeel “gebruik” binnen de doorontwikkeling in samenhang van de geo-basisregistraties (zoals de door Geonovum ontwikkelde demonstrators en activiteiten in het kader van de werkgroep architectuur);
+
 •	het vanuit enkele belangrijke gebruikersgroepen laten beschrijven van enkele belangrijke use-cases.
 
 
 
+##	Globale planning van het vervolg
 
+De volledige uitwerking van de inhoud van de samenhangende objectenregistratie zal naar verwachting het gehele jaar 2020 in beslag nemen. Het is echter wenselijk om reeds in een zo vroegtijdig mogelijk stadium de hoofdlijnen van het inhoudelijk ontwerp te kunnen vaststellen, zodat op basis daarvan besluitvorming over het vervolgtraject kan plaatsvinden en gestart kan worden met het parallel aan elkaar aanpassen van verschillende informatiemodellen. Er wordt daarom gekozen voor een aanpak waarbij in de eerste helft van het jaar de aandacht primair is gericht op de verdere uitwerking van die onderdelen die noodzakelijk zijn voor het kunnen uitwerken van de structuur van het informatiemodel. Detailuitwerkingen die daarop in mindere mate invloed hebben (denk hierbij aan een overzicht van mogelijke domeinwaarden) kunnen dan parallel aan het opstellen van het informatiemodel verder worden uitgewerkt. Dat levert het volgende globale beeld op: 
+
+![hoofdelementen](media/planning_vervolg.png)
 

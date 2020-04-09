@@ -78,7 +78,7 @@ Als onderdeel van een vernieuwd gebouwmodel is er met hoge waarschijnlijk sprake
 -	**Functioneel gebied** 
 Het SOR objecttyope ‘functioneel gebied’ bestaat uit de BGT|IMGeo objecttypen ‘Functioneel gebied’, ‘Ondersteunend wegdeel’ en ‘Ondersteunend waterdeel’. Dit betreft uitsluitend het gedeelte met de functie typeringen van deze objecttypen in BGT|IMGeo (zoals recreatie:park, berm en oever/slootkant), eventueel aangevuld met nieuwe typeringen. Daarnaast is ook de typering haven, van het objecttype ‘waterdeel’ uit de BGT|IMGeo een functioneel gebied in de SOR. Bij functionele gebieden bestaat er ook een duidelijke relatie met tal van functionele objecttypen in de BRT. Deze relatie zal in het vervolg verder worden uitgewerkt.
 
--	**Netwerken voor wegen, water en spoor**
+-	**Netwerk voor wegen, water en spoor**
 In de SOR worden opgenomen objecttypen die de netwerktopografie van wegen, water en spoor vormen. Concreet gaat het bij netwerken over de objecttypen ‘verbindingen’ en ‘knooppunten’.  Netwerken zijn een nieuw onderdeel in de SOR, behalve voor spoor. Het netwerk voor spoor in de SOR is in de BGT|IMGeo vergelijkbaar met het objecttype ‘spoor’. Voor wegen in de SOR is er een netwerk beschikbaar in het Nationaal Wegen Bestand (NWB). En voor water in de SOR wordt gedacht aan het netwerk zoals nu deels in het Nederlands Hydrologisch Instrumentarium (NHI) beschikbaar is. Belangrijke eis die aan netwerken gesteld wordt is dat deze moet zijn gelegen boven op de geometrie van daarvoor vooraf aangewezen fysieke objecttypen. De mapping van de verschillende beschikbare netwerken zal in het vervolg verder worden uitgewerkt.
 
 ## Registratieve objecttypen

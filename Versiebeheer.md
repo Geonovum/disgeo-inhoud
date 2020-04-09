@@ -8,7 +8,7 @@ Deze versie van dit document is tot stand gekomen door de werkgroep "inhoud van 
 |---------------------------|----------------|
 | Martijn Odijk             | Ministerie BZK       | 
 | Koos Boersma	            | Informatiehuis Water|
-|Annemiek Droogh            | Waarderingskamer |
+| Annemiek Droogh           | Waarderingskamer |
 | Stefan van Gerwen	        | Provincie Noord Brabant|
 | Remco in ’t Hout	        | Rijkswaterstaat|
 | Dick Krijtenburg	        | Geonovum|
