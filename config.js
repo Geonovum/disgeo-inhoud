@@ -52,12 +52,13 @@ var respecConfig =
   //specType: "HR",                   // HandReiking
   //specType: "WA",                   // Werkafspraak
   //specType: "BD",                   // Beheer Documentatie
-  specType: "AL",                   // Op zichzelf staand document
+  specType: "AL",                     // Op zichzelf staand document
   //-- format is verplicht! -----------------------------------------------------------
   format: "markdown",                 // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2020-04-07",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2020-06-12",  	    // Format is "YYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
   github: "https://github.com/geonovum/disgeo-inhoud",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
@@ -153,8 +154,8 @@ var respecConfig =
 
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beiden aan/uit! 
   previousPublishDate: "2020-04-10",  	    // Format is "YYY-MM-DD"
-  previousMaturity: "CV",                   // kies 1 van deze 2 regels  	  
-  //previousMaturity: "VV",  	                // kies 1 van deze 2 regels
+  previousMaturity: "GN-CV",                   // kies 1 van deze 2 regels  	  
+  //previousMaturity: "GN-VV",  	                // kies 1 van deze 2 regels
 
   //-- Optionele parameters:
   //emailComments: "mim@geonovum.nl",         // reactie mailadres, alleen bij CV!
